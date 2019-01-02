@@ -14,7 +14,7 @@ title: Astronomy Data Science Lab
 <ul>
 <li>The first Lab (#0) will be distributed electronically on Jan 21.</li> 
 <li>The first (informal) meet and greet will be on Friday Jan 25 (355 Campbell, 1-2:30pm).</li>
-<li>The first official meeting of the course will be 4-7pm in Campbell 131.</li>
+<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 28.</li>
 </ul>
 
 </div>
