@@ -1,65 +1,106 @@
-/* Custom container */
-.container-narrow {
-  margin: 0 auto;
-  max-width: 1000px; }
+html {
+  font-weight: 300;
+  padding-top: 50px;
+  margin-left: 16px auto;
+  margin-right: 16px auto;
+  position:relative;
+  width: 95%;
+}
 
-.container-narrow > hr {
-  margin: 30px 0; }
+body {
+  padding-top: 50px;
+  margin-left: 16px auto;
+  margin-right: 16px auto;
+  position:relative;
+  width: 95%;
+}
 
-.navbar .nav {
-  float: right; }
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
 
-/* posts index */
-.post > h3.title {
-  position: relative;
-  padding-top: 10px; }
+h3 {
+  font-size: 20px;
+}
 
-.post > h3.title span.date {
+a.anchor-link {
+  display: none;
+}
+
+/* Announcement Pager */
+
+.announcement-btn-older:hover, .announcement-btn-newer:hover {
+  cursor: pointer;
+}
+.announcement {
+  display: none;
+}
+.announcement .pager {
+  text-align: left;
+}
+
+/* Calendar */
+
+.calendar table, .calendar th, .calendar tr, .calendar td {
+  border: 1px solid black;
+}
+
+.calendar th, .calendar tr, .calendar td {
+  padding: 12px;
+}
+
+.calendar td.header {
+  font-weight: 500;
+}
+
+.calendar tr.monday {
+  background-color: #e6e8f2;
+}
+
+.calendar tr.wednesday {
+  background-color: #f2f4f8;
+}
+
+/* Staff */
+
+.staff th, .staff tr, .staff td {
+  padding: 30px 40px 40px 0;
+}
+
+.staff td {
+  vertical-align: top;
+  text-align: center;
+}
+
+.staff tr{
+  border:0;
+  border-top: 1px solid #eeeeee;
+}
+
+.biohover {
+  color:#377bb5;
+  text-decoration: underline
+}
+
+.staff .name .biohover .bio {
+  visibility: hidden;
+  width: 200px;
+  background-color: #e7e7e7;
+  color: #000;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 5px;
+
+  /* Position the tooltip */
   position: absolute;
-  right: 0;
-  font-size: 0.9em; }
+  z-index: 1;
+}
 
-.post > .more {
-  margin: 10px 0;
-  text-align: left; }
 
-/* post-full*/
-.post-full .date {
-  margin-bottom: 20px;
-  font-weight: bold; }
+.staff .name .biohover:hover .bio {
+  visibility: visible;
+}
 
-/* tag_box */
-.tag_box {
-  list-style: none;
-  margin: 0;
-  overflow: hidden; }
-
-.tag_box li {
-  line-height: 28px; }
-
-.tag_box li i {
-  opacity: 0.9; }
-
-.tag_box.inline li {
-  float: left; }
-
-.tag_box a {
-  padding: 3px 6px;
-  margin: 2px;
-  background: #eee;
-  color: #555;
-  border-radius: 3px;
-  text-decoration: none;
-  border: 1px dashed #cccccc; }
-
-.tag_box a span {
-  vertical-align: super;
-  font-size: 0.8em; }
-
-.tag_box a:hover {
-  background-color: #e5e5e5; }
-
-.tag_box a.active {
-  background: #57A957;
-  border: 1px solid #4c964d;
-  color: #FFF; }
+.staff .name .biohover:active .bio {
+  visibility: visible;
+}

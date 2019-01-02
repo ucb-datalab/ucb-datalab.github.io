@@ -23,6 +23,8 @@ production_url: "http://ucb-datalab.github.io"
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
 
+favicon: assets/favicon.ico
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
