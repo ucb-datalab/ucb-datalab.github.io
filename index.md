@@ -52,9 +52,9 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * Ugrad/Grad together/Grads will do a more in-depth labs 
 
 
-#### Office Hours
+#### Lectures
 
-Mondays 4-7pm in 131 Campbell Hall
+Mondays 4-7pm in 131 Campbell Hall (no class on 1/21, 2/18, 3/25)
 
 
 #### Office Hours
