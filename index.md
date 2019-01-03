@@ -14,7 +14,7 @@ title: Astronomy Data Science Lab
 <ul>
 <li>The first Lab (#0) will be distributed electronically on Jan 21.</li> 
 <li>The first (informal) meet and greet will be on Friday Jan 25 (355 Campbell, 1-2:30pm).</li>
-<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 28.</li>
+<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 28. Be prepared to discuss your progress on Lab 0.</li>
 </ul>
 
 </div>
@@ -29,6 +29,7 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * Daniel Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
 * Joshua Bloom (joshbloom@berkeley.edu; 203 Campbell Hall)
 * Kareem El-Badry (GSI, kelbadry@berkeley.edu)
+
 
 #### Course Aims
 
@@ -47,9 +48,13 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * “Show & tell” progress reports + instructor lecture
 * 3 or 4 labs + final project & presentation
 * Will require a fair amount of dedicated coding time
-* It WILL count as an astro major elective in Spring 2019
+* It WILL fulfill the astro major lab requreiment in Spring 2019
 * Ugrad/Grad together/Grads will do a more in-depth labs 
 
+
+#### Office Hours
+
+Mondays 4-7pm in 131 Campbell Hall
 
 
 #### Office Hours
@@ -58,7 +63,7 @@ TBD
 
 #### Prereqs
 
-* Astrophysical background: Astro 7A & 7B
+* Astrophysical background: Astro 7A & 7B OR two of Astro 160, 161, 162.  One course may be taken concurrently.
 * Math background: Calculus (including Math 53), Linear Algebra (Math 54 or Physics 89)
 * Proficiency or fluency in the Python programming language.
 * N.B.: This is NOT the place to learn how to program for the first time
