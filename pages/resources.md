@@ -18,3 +18,4 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 ### Packages and Code
 
 - ["`astroquery`: An Astronomical Web-Querying Package in Python"](https://arxiv.org/abs/1901.04520) (A. Ginsburg et al.). Main Python-based query tool for (remote) astronomical databases.
+- ["The Astropy Project: Building an inclusive, open-science project and status of the v2.0 core package"](https://arxiv.org/abs/1801.02634) Suite of astronomical Python packages.
