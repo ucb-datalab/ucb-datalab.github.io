@@ -60,7 +60,7 @@ Mondays 4-7pm in 131 Campbell Hall (no class on 1/21, 2/18, 3/25)
 #### Office Hours
 
 * Kareem: Tu 5-6pm and Fri 9-10am in 419 Campbell
-* Dan: Weds 4-5pm in 311 Campbell
+* Dan: Weds 4-5pm in 355 Campbell
 * Josh: Thurs 2:30-3:30 in 203 Campbell
 
 
