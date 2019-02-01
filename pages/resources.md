@@ -5,6 +5,17 @@ title: Resources
 
 Resources will be posted here throughout the semester. Diving into this (edifying) material should be of keen interest to those taking the class, but do not consider these formal reading assignments.
 
+### Model Fitting
+
+- ["Data analysis recipes: Fitting a model to data"](https://arxiv.org/abs/1008.4686)(Hogg et al. 2010). "We go through the many considerations involved in fitting a model to data, using as an example the fit of a straight line to a set of points in a two-dimensional plane."
+
+- ["Data Analysis Recipes: Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068)(Hogg and Foreman-Mackey 2018) "In this primarily pedagogical contribution, we give a brief overview of the most basic MCMC method and some practical advice for the use of MCMC in real inference problems."
+
+### Periodograms
+
+- ["Understanding the Lomb-Scargle Periodogram"](https://arxiv.org/abs/1703.09824)(VanderPlas 2017) "This paper presents a conceptual introduction to the Lomb-Scargle periodogram and important practical considerations for its use."
+
+
 ### Blogs/Online Material of Interest
 
 -  ["Warning Signs in Experimental Design and Interpretation"](http://norvig.com/experiment-design.html) (P. Norvig). Enumerates many of the pitfalls in hypothesis testing, on correlation vs causation, reproducibility, and bias. Good reference set of statistics book at the end of the blog.
