@@ -32,4 +32,4 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 - ["The Astropy Project: Building an inclusive, open-science project and status of the v2.0 core package"](https://arxiv.org/abs/1801.02634) Suite of astronomical Python packages.
 - ["emcee"](http://dfm.io/emcee/current/) "Serioiusly kick-ass MCMC."
 - ["pyMC3"](https://docs.pymc.io) "Fit your model using gradient-based MCMC algorithms like NUTS, using ADVI for fast approximate inference — including minibatch-ADVI for scaling to large datasets — or using Gaussian processes to build Bayesian nonparametric models."
--["PySTAN"]("https://pystan.readthedocs.io/en/latest/") "PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo." [N. B., you need to know how to use STAN to use PySTAN]
+- ["PySTAN"]("https://pystan.readthedocs.io/en/latest/") "PyStan provides an interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo." [N. B., you need to know how to use STAN to use PySTAN]
