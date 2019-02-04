@@ -5,6 +5,13 @@ title: Resources
 
 Resources will be posted here throughout the semester. Diving into this (edifying) material should be of keen interest to those taking the class, but do not consider these formal reading assignments.
 
+### Recommended Book
+
+- ["Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data "](https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687) (Ivezic et al. 2016)
+
+ - Visualization: Ch 1.6
+
+
 ### Model Fitting
 
 - ["Data analysis recipes: Fitting a model to data"](https://arxiv.org/abs/1008.4686) (Hogg et al. 2010). "We go through the many considerations involved in fitting a model to data, using as an example the fit of a straight line to a set of points in a two-dimensional plane."
