@@ -10,6 +10,7 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 - ["Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data "](https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687) (Ivezic et al. 2016)
 
 	- Visualization: Ch 1.6
+	- Bayesian Inference: Ch 5
 
 
 ### Model Fitting
