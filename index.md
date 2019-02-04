@@ -5,10 +5,16 @@ title: Astronomy Data Science Lab
 
 ## AY 128/256: Astronomy Data Science Lab
 
-<div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2019/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza before Jan 19, 2019.
+
+<div class="alert alert-primary" role="alert">
+ <a href="https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_1_Ast128_2019.pdf">Lab 1</a> has been posted. Due Feb 25 at 4pm.
 </div>
 
+<div class="alert alert-info" role="alert">
+ All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2019/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
+</div>
+
+<!-- 
 <div class="alert alert-primary" role="alert">
 <b>Key Dates at the Start of the Spring 2019 Semester</b>
 <ul>
@@ -18,17 +24,21 @@ title: Astronomy Data Science Lab
 </ul>
 
 </div>
+-->
 
 #### Synopsis
 
 This course consists of data-centric laboratory experiments that draw on a variety of tools used by professional astronomers. Students will learn to procure and clean data (drawn from a variety of world-class astronomical facilities), assess the fidelity/quality of data, build and apply models to describe data, learn statistical and computational techniques to analyze data (e.g., Bayesian inference, machine learning, parallel computing), and effectively communicate data and associated scientific results.  This class will make use of data from facilities such as Gaia, the Sloan Digital Sky Survey, and the Hubble Space Telescope to explore the structure and composition of the Milky Way, stars, and galaxies throughout the local and distant Universe. There is a heavy emphasis software development in the Python language, statistical techniques, and high-quality communication (e.g., written reports, oral presentations, and data visualization).
 
+<i>This course satisfies the <b>Data Science major requirement</b> for "Computational & Inferential Depth". Read more about the <a href="https://data.berkeley.edu/degrees/data-science-ba/upper-division">upper division classes for the Data Science BA</a>. This course also satisfies the <a href="https://astro.berkeley.edu/programs/undergraduate-program/astrophysics-major">Laboratory requirement for the <b>Astronomy Major</b></a>.</i>
 
 #### Instructors
 
 * Daniel Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
 * Joshua Bloom (joshbloom@berkeley.edu; 203 Campbell Hall)
 * Kareem El-Badry (GSI, kelbadry@berkeley.edu)
+
+
 
 
 #### Course Aims
