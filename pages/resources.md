@@ -11,6 +11,8 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 
 - ["Data Analysis Recipes: Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) (Hogg and Foreman-Mackey 2018) "In this primarily pedagogical contribution, we give a brief overview of the most basic MCMC method and some practical advice for the use of MCMC in real inference problems."
 
+- ["Data analysis recipes: Probability calculus for inference"](https://arxiv.org/abs/1205.4446) (Hogg 2012) "...I review the rules by which probability distribution functions can (and cannot) be combined. I connect these rules to the operations performed in probabilistic data analysis...The applications of probability calculus in constructing likelihoods, marginalized likelihoods, posterior probabilities, and posterior predictions are all discussed."
+
 ### Periodograms
 
 - ["Understanding the Lomb-Scargle Periodogram"](https://arxiv.org/abs/1703.09824) (VanderPlas 2017) "This paper presents a conceptual introduction to the Lomb-Scargle periodogram and important practical considerations for its use."
