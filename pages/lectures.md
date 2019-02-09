@@ -41,7 +41,7 @@ before each lecture.
 
 - Intro to MCMC and using MCMC to fit data examle
 - MCMC convergence metrics
-- Intro to periodograms (Josh)
+- Intro to periodograms
 - Assign new groups for Lab 1
 - Show and tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
 
