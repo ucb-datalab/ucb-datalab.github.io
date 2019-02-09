@@ -36,3 +36,16 @@ before each lecture.
 - Talk about Lab 1 
 - Introduce/review of probability theory ([01\_Intro\_to\_Probability](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/01_Intro_to_Probability.pdf)), Bayes's theorem, and talk about modeling fitting ([02\_Model\_Fitting](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/02_Model_Fitting.pdf))
 - Go through a practical example of model fitting ([03\_Fitting\_line\_emcee\_demo](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/03_Fitting_line_emcee_demo.ipynb))
+
+### Lecture 2 (Feb 11)
+
+- Intro to MCMC and using MCMC to fit data examle
+- MCMC convergence metrics
+- Intro to periodograms (Josh)
+- Assign new groups for Lab 1
+- Show and tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
+
+
+### No Class on Feb 18 -- Holiday
+
+### Lecture 3 (Feb 25)  -- Lab 1 Due by 4pm
