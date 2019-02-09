@@ -39,7 +39,8 @@ before each lecture.
 
 ### Lecture 2 (Feb 11)
 
-- Intro to MCMC and using MCMC to fit data examle
+- Intro to MCMC
+- Example of using Bayes+MCMC to fit data
 - MCMC convergence metrics
 - Intro to periodograms
 - Assign new groups for Lab 1
