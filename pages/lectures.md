@@ -39,10 +39,10 @@ before each lecture.
 
 ### Lecture 2 (Feb 11)
 
-- Intro to MCMC
-- Example of using Bayes+MCMC to fit data
+- ([Intro to MCMC](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/02_Model_Fitting.pdf))
+- ([Example of using Bayes+MCMC to fit data](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/03_Fitting_line_emcee_demo.ipynb))
 - MCMC convergence metrics
-- Intro to periodograms
+- ([Intro to periodograms](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture2_periodograms/00_periodograms.ipynb))
 - Assign new groups for Lab 1
 - Show and tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
 
