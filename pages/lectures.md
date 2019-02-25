@@ -50,3 +50,12 @@ before each lecture.
 ### No Class on Feb 18 -- Holiday
 
 ### Lecture 3 (Feb 25)  -- Lab 1 Due by 4pm
+
+- Show and Tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
+- Introduce Lab 2
+- Background on Stellar Spectroscopy
+- Background on APOGEE and Specifics that may be helpful for Lab 2
+
+### Lecture 4 (March 4)
+
+- Intro to Machine Learning
