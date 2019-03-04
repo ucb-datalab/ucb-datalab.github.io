@@ -62,3 +62,4 @@ before each lecture.
 - [Regression with Machine Learning](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/01_ml_regression.ipynb)
 - [Neutral Networks](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/02_neural_networks.ipynb)
 - [Neural Networks with Keras](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/03_nn_with_keras.ipynb)
+- Show and Tell for Lab 2
