@@ -41,7 +41,7 @@ before each lecture.
 
 - [Intro to MCMC](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/02_Model_Fitting.pdf)
 - [Example of using Bayes+MCMC to fit data](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/03_Fitting_line_emcee_demo.ipynb)
-- MCMC convergence metrics
+- [MCMC convergence metrics](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture1_model_fitting/04_convergence.ipynb)
 - [Intro to periodograms](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture2_periodograms/00_periodograms.ipynb)
 - Assign new groups for Lab 1
 - Show and tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
@@ -52,10 +52,13 @@ before each lecture.
 ### Lecture 3 (Feb 25)  -- Lab 1 Due by 4pm
 
 - Show and Tell for Lab 1 &ndash; come with questions, thoughts, feedback, plots to share, etc.
-- Introduce Lab 2
-- Background on Stellar Spectroscopy
-- Background on APOGEE and Specifics that may be helpful for Lab 2
+- [Introduce Lab 2](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture3_stellar_spectra/00_Introduction.ipynb)
+- [Background on Stellar Spectroscopy](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture3_stellar_spectra/02_APOGEE_Cannon.ipynb)
+- [Background on APOGEE and Specifics that may be helpful for Lab 2](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture3_stellar_spectra/Stellar_Spectra.ipynb)
 
 ### Lecture 4 (March 4)
 
-- Intro to Machine Learning
+- [Intro to Machine Learning](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/00_introduction.ipynb)
+- [Regression with Machine Learning](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/01_ml_regression.ipynb)
+- [Neutral Networks](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/02_neural_networks.ipynb)
+- [Neural Networks with Keras](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture4_machine_learning/03_nn_with_keras.ipynb)
