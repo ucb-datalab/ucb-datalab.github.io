@@ -65,7 +65,7 @@ before each lecture.
 - Show and Tell for Lab 2
 
 ### Lecture 5 (March 11)
-- [Discussion of "The Cannon" paper by Ness et al.](https://arxiv.org/abs/1501.07604)
+- Discussion of ["The Cannon" paper by Ness et al.](https://arxiv.org/abs/1501.07604)
 - Show and Tell for Lab 2
 - Q & A on Intro to Machine Learning from Lecture 4 (if there are questions)
 - Data driven vs. Ab Initio fitting of spectra
