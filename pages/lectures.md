@@ -70,3 +70,10 @@ before each lecture.
 - Q & A on Intro to Machine Learning from Lecture 4 (if there are questions)
 - Data driven vs. Ab Initio fitting of spectra
 - Example science applications of stellar spectra
+
+### Lecture 6 (March 18)
+- Show and Tell for Lab 2
+- Intro to Lab 3
+- [Gaussian Processes](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture6_ml_II_gaussian_processes/03_nn_with_keras.ipynb)
+
+
