@@ -8,7 +8,7 @@ title: Astronomy Data Science Lab
 
 <div class="alert alert-primary" role="alert">
 
-<a href="https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_2_Ast128_2019.pdf">Lab 2</a> has been posted. Due March 4 at 4pm.
+<a href="https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_2_Ast128_2019.pdf">Lab 2</a> has been posted. Due March 22 at 4pm.
 
 </div>
 
