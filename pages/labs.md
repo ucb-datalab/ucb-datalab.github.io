@@ -10,4 +10,4 @@ Lab assignments will be posted here throughout the semester.
 
  - Lab 1 [[pdf]](https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_1_Ast128_2019.pdf) (Due 4pm, Feb 25) "Gaia, RR Lyrae stars, and Galactic Dust" 
 
-  - Lab 2 [[pdf]](https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_2_Ast128_2019.pdf) (Due 4pm, March 18) "Modeling Stellar Spectra"
+  - Lab 2 [[pdf]](https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_2_Ast128_2019.pdf) (Due 4pm, March 25) "Modeling Stellar Spectra"
