@@ -17,6 +17,7 @@ git pull
 
 before each lecture.
 
+<!-- 
 ### Lecture 0 (Jan 28)
 
 - Introduction / Icebreaker ([00\_Introduction](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture0_Viz_and_Gaia/00_Introduction.ipynb))
@@ -76,4 +77,4 @@ before each lecture.
 - Intro to Lab 3
 - [Gaussian Processes](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture6_ml_II_gaussian_processes/03_nn_with_keras.ipynb)
 
-
+-->

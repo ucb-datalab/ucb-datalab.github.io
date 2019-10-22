@@ -3,22 +3,18 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab
+## AY 128/256: Astronomy Data Science Lab (Spring 2020)
 
 
 <div class="alert alert-primary" role="alert">
 
-<a href="https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_2_Ast128_2019.pdf">Lab 2</a> has been posted. Due March 22 at 4pm.
-<br/>
-<a href="https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_3_Astr128.pdf">Lab 3</a> has been posted. Due April 15 at 4pm.
-
+Interested in taking this class? You should read the <a href="https://ucb-datalab.github.io/pages/prereq.html">Prereqs</a> page carefully to make sure you'll be a good fit.<br/>
 </div>
 
 
-
-<div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2019/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
-</div>
+<!-- <div class="alert alert-info" role="alert">
+ All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="piazza.com/berkeley/spring2020/ay128256" alt="Piazza Homepage">signed up</a> for the class on Piazza.
+</div> -->
 
 <!-- 
 <div class="alert alert-primary" role="alert">
@@ -64,26 +60,23 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * “Show & tell” progress reports + instructor lecture
 * 3 or 4 labs + final project & presentation
 * Will require a fair amount of dedicated coding time
-* It WILL fulfill the astro major lab requreiment in Spring 2019
+* It WILL fulfill the astro major lab requirement in Spring 2020
 * Ugrad/Grad together/Grads will do a more in-depth labs 
 
 
 #### Lectures
 
-Mondays 4-7pm in 131 Campbell Hall (no class on 1/21, 2/18, 3/25)
+Mondays 4-7pm in 131 Campbell Hall 
 
 
 #### Office Hours
 
-* Kareem: Tu 5-6pm and Fri 9-10am in 419 Campbell
-* Dan: Weds 4-5pm in 355 Campbell
-* Josh: Thurs 2:30-3:30 in 203 Campbell
+* Kareem: TBD in 419 Campbell
+* Dan: TBD in 355 Campbell
+* Josh: TBD in 203 Campbell
 
 
 #### Prereqs
 
-* Astrophysical background: Astro 7A & 7B OR two of Astro 160, 161, 162.  One course may be taken concurrently.
-* Math background: Calculus (including Math 53), Linear Algebra (Math 54 or Physics 89)
-* Proficiency or fluency in the Python programming language.
-* N.B.: This is NOT the place to learn how to program for the first time
+* There are no formal prereqs for this class but there are a number of informal requirements, [outlined in this document](https://ucb-datalab.github.io/pages/prereq.html), which you must satisfy.
 
