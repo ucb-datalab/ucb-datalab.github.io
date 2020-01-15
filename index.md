@@ -58,7 +58,7 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * 4 credits (grad and undergrad)
 * 1 weekly 3 hour meeting
 * “Show & tell” progress reports + instructor lecture
-* 3 or 4 labs + final project & presentation
+* 4.5 labs
 * Will require a fair amount of dedicated coding time
 * It WILL fulfill the astro major lab requirement in Spring 2020
 * Ugrad/Grad together/Grads will do a more in-depth labs 
