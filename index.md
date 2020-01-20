@@ -5,24 +5,23 @@ title: Astronomy Data Science Lab
 
 ## AY 128/256: Astronomy Data Science Lab (Spring 2020)
 
-
+<!--
 <div class="alert alert-primary" role="alert">
 
 Interested in taking this class? You should read the <a href="https://ucb-datalab.github.io/pages/prereq.html">Prereqs</a> page carefully to make sure you'll be a good fit.<br/>
 </div>
+-->
 
-
-<!-- <div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="piazza.com/berkeley/spring2020/ay128256" alt="Piazza Homepage">signed up</a> for the class on Piazza.
-</div> -->
+</div>
 
-<!-- 
+<
 <div class="alert alert-primary" role="alert">
 <b>Key Dates at the Start of the Spring 2019 Semester</b>
 <ul>
-<li>The first Lab (#0) will be distributed electronically on Jan 21.</li> 
-<li>The first (informal) meet and greet will be on Friday Jan 25 (355 Campbell, 1-2:30pm).</li>
-<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 28. Be prepared to discuss your progress on Lab 0.</li>
+<li>Lab 0 has been posted under the 'Labs' tab.</li> 
+<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li>
 </ul>
 
 </div>
