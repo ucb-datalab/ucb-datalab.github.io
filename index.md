@@ -13,7 +13,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 -->
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="piazza.com/berkeley/spring2020/ay128256" alt="Piazza Homepage">signed up</a> for the class on Piazza.
+ All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="piazza.com/berkeley/spring2020/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
 </div>
 
 
@@ -22,7 +22,6 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <li>Lab 0 has been posted under the 'Labs' tab.</li> 
 <li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li>
 </ul>
-
 </div>
 
 #### Synopsis
