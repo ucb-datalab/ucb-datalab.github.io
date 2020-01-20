@@ -18,7 +18,6 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 <
 <div class="alert alert-primary" role="alert">
-<b>Key Dates at the Start of the Spring 2019 Semester</b>
 <ul>
 <li>Lab 0 has been posted under the 'Labs' tab.</li> 
 <li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li>
