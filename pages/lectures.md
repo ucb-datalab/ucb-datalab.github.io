@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 ---
 
-All lecture material can be found on the course's <a href="https://github.com/ucb-datalab/course-materials/tree/master/Lectures">GitHub course materials site</a>. You should clone the repo:
+All lecture material can be found on the course's <a href="https://github.com/ucb-datalab/course-materials_2020.git">GitHub course materials site</a>. You should clone the repo:
 
 ```
 git clone https://github.com/ucb-datalab/course-materials.git
