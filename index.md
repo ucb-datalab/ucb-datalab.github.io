@@ -20,7 +20,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <div class="alert alert-primary" role="alert">
 <ul>
 <li>Lab 0 has been posted under the 'Labs' tab.</li> 
-<li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li>
+<!-- <li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li> -->
 </ul>
 </div>
 
@@ -59,6 +59,12 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * It WILL fulfill the astro major lab requirement in Spring 2020
 * Ugrad/Grad together/Grads will do a more in-depth labs 
 
+#### Lab Schedule:
+ * Lab 0 (Clusters) — Assigned: Monday 1/20, Due: Friday 2/7 (4pm)
+ * Lab 1 (Variable Stars & Dust) — Assigned: Monday 2/3, Due: Tuesday 3/3 (4pm)
+ * Lab 2 (Stellar Rotation) — Assigned: Monday 3/2, Due Tuesday 3/17 (4pm)
+ * Lab 3 (Stellar Spectra) — Assigned: Monday 3/16, Due Tuesday 4/14 (4pm)
+ * Lab 4 (Hubble's Constant) — Assigned: Monday 4/13, Due Tuesday 4/28 (4pm)
 
 #### Lectures
 
@@ -67,9 +73,15 @@ Mondays 4-7pm in 131 Campbell Hall
 
 #### Office Hours
 
-* Kareem: TBD in 419 Campbell
-* Dan: TBD in 355 Campbell
-* Josh: TBD in 203 Campbell
+* Kareem: Thurs 2–3 in 419 Campbell
+* Dan: Tue Noon–1pm in 355 Campbell
+* Josh: Wed 4–5pm in 203 Campbell
+
+#### Grading
+
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell"
+ * 90%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. Checkpoints worth 10% of grade for each lab. We'll drop your 2 lowest checkpoint scores.
+
 
 
 #### Prereqs
