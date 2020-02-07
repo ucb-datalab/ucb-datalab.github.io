@@ -19,6 +19,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 <div class="alert alert-primary" role="alert">
 <ul>
+<li>1/20 -- Lab 0 has been posted under the 'Lab' tab.</li>
 <li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
 <!-- <li>The first official meeting of the course will be 4-7pm in Campbell 131 on Jan 27. Be prepared to discuss your progress on Lab 0.</li> -->
 </ul>
