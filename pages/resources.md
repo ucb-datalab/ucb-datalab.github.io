@@ -28,6 +28,14 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 
 - ["Understanding the Lomb-Scargle Periodogram"](https://arxiv.org/abs/1703.09824) (VanderPlas 2017) "This paper presents a conceptual introduction to the Lomb-Scargle periodogram and important practical considerations for its use."
 
+### Gaia Variable Star References
+
+- ["Gaia Data Release 1. The Cepheid and RR Lyrae star pipeline and its application to the south ecliptic pole region"](https://ui.adsabs.harvard.edu/abs/2016A%26A...595A.133C/abstract)
+
+- ["Gaia Data Release 2. Specific characterisation and validation of all-sky Cepheids and RR Lyrae stars"](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..60C/abstract)
+
+- ["Gaia Data Release 2. Summary of the variability processing and analysis results"](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..30H/abstract)
+
 
 ### Blogs/Online Material of Interest
 
