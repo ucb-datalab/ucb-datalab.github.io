@@ -22,6 +22,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <li>1/20 -- Lab 0 has been posted under the 'Lab' tab.</li>
 <li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
 <li>3/1 -- Lab 2 has been posted under the 'Labs' tab.</li> 
+<li>3/29 -- Lab 3 has been posted under the 'Labs' tab.</li> 
 </ul>
 </div>
 
