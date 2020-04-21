@@ -17,7 +17,7 @@ Lab assignments will be posted here throughout the semester.
 - Lab 3 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab3_Astr128_2020.pdf) (Due by 4pm, Friday May 1) "Modeling Stellar Spectra"
      - checkpoints on 4/6, 4/13, 4/20, 4/27
 
-- Lab 4 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab4_Astr128_2020.pdf) (Not assigned) "The Hubble Constant"
+- Lab 4 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab4_Astr128_S2020.pdf) (Not assigned) "The Hubble Constant"
      
 
 [//]: #  - Lab 3 [[pdf]](https://github.com/ucb-datalab/course-materials/blob/master/Labs/Lab_3_Astr128.pdf) (Due 4pm, April 15) "The Hubble Constant"
