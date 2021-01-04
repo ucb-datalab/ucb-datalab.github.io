@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2020)
+## AY 128/256: Astronomy Data Science Lab (Spring 2021)
 
 <!--
 <div class="alert alert-primary" role="alert">
@@ -13,10 +13,10 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 -->
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="piazza.com/berkeley/spring2020/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
+ All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2021/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
 </div>
 
-
+<!--
 <div class="alert alert-primary" role="alert">
 <ul>
 <li>1/20 -- Lab 0 has been posted under the 'Lab' tab.</li>
@@ -24,7 +24,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <li>3/1 -- Lab 2 has been posted under the 'Labs' tab.</li> 
 <li>3/29 -- Lab 3 has been posted under the 'Labs' tab.</li> 
 </ul>
-</div>
+</div> -->
 
 #### Synopsis
 
@@ -62,26 +62,33 @@ This course consists of data-centric laboratory experiments that draw on a varie
 * Ugrad/Grad together/Grads will do a more in-depth labs 
 
 #### Lab Schedule:
+
+TBD
+
+<!--
  * Lab 0 (Clusters) — Assigned: Monday 1/20, Due: Friday 2/7 (4pm)
  * Lab 1 (Variable Stars & Dust) — Assigned: Monday 2/3, Due: Tuesday 3/3 (4pm)
  * Lab 2 (Stellar Rotation) — Assigned: Monday 3/2, Due Tuesday 3/17 (4pm)
  * Lab 3 (Stellar Spectra) — Assigned: Monday 3/16, Due Tuesday 4/14 (4pm)
  * Lab 4 (Hubble's Constant) — Assigned: Monday 4/13, Due Tuesday 4/28 (4pm)
 
+ -->
+
 #### Lectures
 
-Mondays 4-7pm in 131 Campbell Hall 
+Mondays 4-7pm in via Zoom (link to be provided) 
 
 
 #### Office Hours
 
-* Kareem: Thurs 2–3 in 419 Campbell
-* Dan: Tue Noon–1pm in 355 Campbell
-* Josh: Wed 4–5pm in 203 Campbell
+* Kareem: TBD <!-- Thurs 2–3 in 419 Campbell -->
+* Dan: TBD <!-- Tue Noon–1pm in 355 Campbell -->
+* Josh: TBD <!--  Wed 4–5pm in 203 Campbell -->
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell"
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", Q&A engagement on Piazza
+ 
  * 90%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. Checkpoints worth 10% of grade for each lab. We'll drop your 2 lowest checkpoint scores.
 
 
