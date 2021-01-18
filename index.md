@@ -16,10 +16,13 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
  All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2021/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
 </div>
 
-<!--
+
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>1/20 -- Lab 0 has been posted under the 'Lab' tab.</li>
+<li>1/18 -- Lab 0 has been posted under the 'Lab' tab.</li>
+</ul>
+</div>
+<!--
 <li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
 <li>3/1 -- Lab 2 has been posted under the 'Labs' tab.</li> 
 <li>3/29 -- Lab 3 has been posted under the 'Labs' tab.</li> 
