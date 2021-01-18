@@ -5,10 +5,11 @@ title: Labs
 
 Lab assignments will be posted here throughout the semester. 
 
-<!-- 
-- Lab 0 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab_0_Astr128_2020.pdf) (Due by 4pm, Fri Feb 7) "Introduction to ADQL and Gaia Data" 
-     - The first Lab 0 checkpoint is due on Monday Jan 27 before 4pm.  You be asked to discuss your progress on this lab in the first lecture/meeting (Jan 27).
 
+- Lab 0 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/master/labs/Lab_0_Astr128_2021.pdf) (Due by 4pm, Fri Feb 5) "Introduction to ADQL and Gaia Data" 
+     - The first Lab 0 checkpoint is due on Monday Jan 25 before 4pm.  You be asked to discuss your progress on this lab in the first lecture/meeting (Jan 25).
+
+<!-- 
 - Lab 1 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab1_Astr128_2020A.pdf) (Due by 4pm, Tuesday March 3rd) "Gaia, RR Lyrae stars, and Galactic Dust" 
      - Checkpoints on 2/17, 2/24, and 3/2
 
