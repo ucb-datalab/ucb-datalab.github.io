@@ -88,7 +88,7 @@ Mondays 4-7pm in via Zoom (link to be provided for each lecture)
 
  * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Piazza
  
- * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. Checkpoints worth 10% of grade for each lab. We'll drop your 2 lowest checkpoint scores.
+ * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
  * 25%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness.
 
