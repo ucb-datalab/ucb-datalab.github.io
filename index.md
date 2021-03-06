@@ -21,6 +21,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <ul>
 <li>1/18 -- Lab 0 has been posted under the 'Lab' tab.</li>
 <li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
+<li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li> 
 </ul>
 </div>
 <!--
@@ -81,9 +82,9 @@ Mondays 4-7pm in via Zoom (link to be provided for each lecture)
 
 #### Office Hours
 
-* Kareem: TBD <!-- Thurs 2–3 in 419 Campbell -->
-* Dan: TBD <!-- Tue Noon–1pm in 355 Campbell -->
-* Josh: TBD <!--  Wed 4–5pm in 203 Campbell -->
+* Kareem: Usually Friday 4-5pm <!-- Thurs 2–3 in 419 Campbell -->
+* Dan: Tuesday 1-2pm <!-- Tue Noon–1pm in 355 Campbell -->
+* Josh: Wednesday 11am-12pm <!--  Wed 4–5pm in 203 Campbell -->
 
 #### Grading
 
