@@ -12,10 +12,10 @@ Lab assignments will be posted here throughout the semester.
 - Lab 1 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/main/labs/Lab1_Astr128_2021A.pdf) (Due by 4pm, Tuesday March 2nd) "Gaia, RR Lyrae stars, and Galactic Dust" 
      - Checkpoints on 2/15, 2/22, and 3/1
 
-<!-- 
-- Lab 2 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab2_Astr128_2020.pdf) (Due by 4pm, Friday March 27th) "Star spots, stellar rotation, and the age distribution of the Galactic disk" 
-     - Checkpoints on 3/9 and 3/16
 
+- Lab 2 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/master/labs/Lab2_Astr128_2021.pdf) (Due by 4pm, Tuesday April 6th) "Modeling Stellar Spectra" 
+     - Checkpoints on 3/25, 3/22 and 3/29
+<!-- 
 - Lab 3 [[pdf]](https://github.com/ucb-datalab/course-materials_2020/blob/master/labs/Lab3_Astr128_2020.pdf) (Due by 4pm, Friday May 1) "Modeling Stellar Spectra"
      - checkpoints on 4/6, 4/13, 4/20, 4/27
 
