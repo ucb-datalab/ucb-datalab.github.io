@@ -41,6 +41,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 * Daniel Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
 * Joshua Bloom (joshbloom@berkeley.edu; 203 Campbell Hall)
 * Kareem El-Badry (GSI, kelbadry@berkeley.edu)
+* Ellie Abrahams (GSI, ellianna@berkeley.edu)
 
 
 
@@ -69,8 +70,8 @@ This course consists of three data-centric laboratory experiments that draw on a
 
  * Lab 0 (Clusters) — Assigned: Monday 1/25, Due: Friday 2/5 (4pm)
  * Lab 1 (Variable Stars & Dust) — Assigned: Monday 2/8, Due: Tuesday 3/2 (4pm)
- * Lab 2 (Stellar Rotation) — Assigned: Monday 3/8, Due Tuesday 4/6 (4pm)
- * Lab 3 (Stellar Spectra) — Assigned: Monday 4/5, Due Tuesday 4/27 (4pm)
+ * Lab 2 (Stellar Spectra) — Assigned: Monday 3/8, Due Tuesday 4/6 (4pm)
+ * Lab 3 (Galaxy Classification) — Assigned: Monday 4/5, Due Tuesday 4/27 (4pm)
  
 
 #### Lectures
