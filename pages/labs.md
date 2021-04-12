@@ -16,7 +16,7 @@ Lab assignments will be posted here throughout the semester.
 - Lab 2 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/master/labs/Lab2_Astr128_2021.pdf) (Due by 4pm, Tuesday April 6th) "Modeling Stellar Spectra" 
      - Checkpoints on 3/15, 3/22 and 3/29
 
-- Lab 3 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/master/labs/Lab3_Astr128_2021.pdf) (Due by 4pm, Friday May 9th) "Galaxy image classification and the galaxy merger rate" 
+- Lab 3 [[pdf]](https://github.com/ucb-datalab/course-materials_2021/blob/master/labs/Lab_3_Astr128_2021.pdf) (Due by 4pm, Friday May 9th) "Galaxy image classification and the galaxy merger rate" 
      - Checkpoints on 4/19, 4/26 and 5/3
 
 <!-- 
