@@ -13,7 +13,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 -->
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Piazza</b>. Please be sure you are <a href="https://piazza.com/berkeley/spring2021/ay128256/home" alt="Piazza Homepage">signed up</a> for the class on Piazza.
+ All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/courses/25141/discussion/" alt="Ed Discussion">signed up</a>.
 </div>
 
 
