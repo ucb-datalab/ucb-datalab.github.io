@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2021)
+## AY 128/256: Astronomy Data Science Lab (Spring 2022)
 
 <!--
 <div class="alert alert-primary" role="alert">
@@ -19,7 +19,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>1/18 -- Lab 0 has been posted under the 'Lab' tab.</li>
+<li>10/18 -- Lab 0 has been posted under the 'Lab' tab.</li>
 <li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
 <li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li>
 <li>4/12 -- Lab 3 has been posted under the 'Labs' tab.</li> 
