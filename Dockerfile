@@ -1,4 +1,6 @@
-FROM ubuntu:16.04
+FROM ubuntu:20.04
+
+ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && apt-get install -y git ruby ruby-dev build-essential patch zlib1g-dev liblzma-dev nodejs
 RUN gem install jekyll bundler
