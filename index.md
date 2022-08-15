@@ -19,15 +19,10 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>10/18 -- Lab 0 has been posted under the 'Lab' tab.</li>
-<li>2/7 -- Lab 1 has been posted under the 'Labs' tab.</li> 
-<li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li>
-<li>4/12 -- Lab 3 has been posted under the 'Labs' tab.</li> 
+<li>8/15 -- Lab 0 has been posted under the 'Lab' tab.</li>
 </ul>
 </div>
 <!--
-<li>3/1 -- Lab 2 has been posted under the 'Labs' tab.</li> 
-<li>3/29 -- Lab 3 has been posted under the 'Labs' tab.</li> 
 </ul>
 </div> -->
 
@@ -40,10 +35,10 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Daniel Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
-* Joshua Bloom (joshbloom@berkeley.edu; 203 Campbell Hall)
-* Kareem El-Badry (GSI, kelbadry@berkeley.edu)
-* Ellie Abrahams (GSI, ellianna@berkeley.edu)
+* Jessica Lu (jlu.astro@berkeley.edu; 259 Campbell Hall)
+* Aaron Parsons (aparsons@berkeley.edu; 455 Campbell Hall)
+* Natasha Abrams (GSI, nsabrams@berkeley.edu)
+* TBD (GSI, TBD)
 
 
 
@@ -65,27 +60,27 @@ This course consists of three data-centric laboratory experiments that draw on a
 * “Show & tell” progress reports + instructor lecture
 * 3.5 labs
 * Will require a fair amount of dedicated coding time
-* It WILL fulfill the astro major lab requirement in Spring 2021
-* Ugrad/Grad together/Grads will do a more in-depth labs 
+* Grads will do more in-depth labs with a higher expectation for rigor
 
 #### Lab Schedule:
 
- * Lab 0 (Clusters) — Assigned: Monday 1/25, Due: Friday 2/5 (4pm)
- * Lab 1 (Variable Stars & Dust) — Assigned: Monday 2/8, Due: Tuesday 3/2 (4pm)
- * Lab 2 (Stellar Spectra) — Assigned: Monday 3/8, Due Tuesday 4/6 (4pm)
- * Lab 3 (Galaxy Classification) — Assigned: Monday 4/5, Due Tuesday 4/27 (4pm)
+ * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9 (4pm)
+ * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30 (4pm)
+ * Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4 (4pm)
+ * Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9 (4pm)
  
 
 #### Lectures
 
-Mondays 4-7pm in via Zoom (link to be provided for each lecture) 
+Mondays and Wednesdays 2:30-4pm in Campbell 131
 
 
 #### Office Hours
 
-* Kareem: Usually Friday 4-5pm <!-- Thurs 2–3 in 419 Campbell -->
-* Dan: Tuesday 1-2pm <!-- Tue Noon–1pm in 355 Campbell -->
-* Josh: Wednesday 11am-12pm <!--  Wed 4–5pm in 203 Campbell -->
+* Aaron & Jessica: Wed 4-5pm
+* Natasha: TBD
+* TBD: TBD
+* TALC: TBD
 
 #### Grading
 
