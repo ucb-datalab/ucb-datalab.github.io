@@ -9,4 +9,4 @@ sh docker-build.sh
 sh docker-run.sh
 ```
 
-This site uses https://github.com/https://github.com/datasciencelabs as the Jekyll template.
+This site uses https://github.com/datasciencelabs as the Jekyll template.
