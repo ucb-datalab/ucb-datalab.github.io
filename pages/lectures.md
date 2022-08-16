@@ -3,10 +3,10 @@ layout: page
 title: Lectures
 ---
 
-All lecture material can be found on the course's <a href="https://github.com/ucb-datalab/course-materials_2021.git">GitHub course materials site</a>. You should clone the repo:
+All lecture material can be found on the course's <a href="https://github.com/ucb-datalab/course-materials_2022.git">GitHub course materials site</a>. You should clone the repo:
 
 ```
-git clone https://github.com/ucb-datalab/course-materials_2021.git
+git clone https://github.com/ucb-datalab/course-materials_2022.git
 ```
 
 As the materials are changing throughout the semester (and sometimes in real time!) please keep your version up to date by doing a
@@ -18,7 +18,7 @@ git pull
 before each lecture.
 
 <!-- 
-### Lecture 0 (Jan 28)
+### Lecture 0 (Aug 24)
 
 - Introduction / Icebreaker ([00\_Introduction](https://github.com/ucb-datalab/course-materials/blob/master/Lectures/Lecture0_Viz_and_Gaia/00_Introduction.ipynb))
    - Organize into groups
