@@ -84,7 +84,7 @@ Mondays and Wednesdays 2:30-4pm in Campbell 131
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Piazza
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion
  
  * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
