@@ -6,7 +6,7 @@ title: Labs
 Lab assignments will be posted here throughout the semester. 
 
 - Lab 0
-  [[pdf]](https://github.com/ucb-datalab/course-materials_2022/blob/master/labs/Lab_0_Astr128_20222.pdf)
+  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab0_adql_gaia.pdf)
   (Due by 4pm, Fri Sep 9) "Introduction to ADQL and Gaia Data"
      - The first Lab 0 checkpoint is 8/29. For checkpoints, you will be asked to discuss your progress on this lab in class.
 
