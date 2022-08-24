@@ -38,7 +38,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 * Jessica Lu (jlu.astro@berkeley.edu; 259 Campbell Hall)
 * Aaron Parsons (aparsons@berkeley.edu; 455 Campbell Hall)
 * Natasha Abrams (GSI, nsabrams@berkeley.edu)
-* TBD (GSI, TBD)
+* Jingshu Rui (GSI, jingshu_rui@berkeley.edu)
 
 
 
@@ -77,9 +77,9 @@ Mondays and Wednesdays 2:30-4pm in Campbell 131
 
 #### Office Hours
 
-* Aaron & Jessica: Wed 4-5pm
-* Natasha: TBD
-* TBD: TBD
+* Aaron & Jessica: Wed 4-5pm, Campbell 501
+* Natasha: Mon 5-6p, Campbell 131
+* Jingshu: Mon 6-7p, Campbell 131
 * TALC: TBD
 
 #### Grading
