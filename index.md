@@ -13,7 +13,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 -->
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/courses/25141/discussion/" alt="Ed Discussion">signed up</a>.
+ All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/EVU8jj" alt="Ed Discussion">signed up</a>.
 </div>
 
 
