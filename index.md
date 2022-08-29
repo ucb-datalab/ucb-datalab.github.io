@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2022)
+## AY 128/256: Astronomy Data Science Lab (Fall 2022)
 
 <!--
 <div class="alert alert-primary" role="alert">
@@ -55,7 +55,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Course Format
 
 * 4 credits (grad and undergrad)
-* 1 weekly 3 hour meeting
+* 2 weekly 1.5 hour meetings
 * “Show & tell” progress reports + instructor lecture
 * 3.5 labs
 * Will require a fair amount of dedicated coding time
@@ -86,7 +86,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://swcarpentry.github.io/shell-novice/">invite link</a>)
  
  * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
