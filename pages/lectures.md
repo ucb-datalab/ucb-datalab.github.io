@@ -17,6 +17,8 @@ git pull
 
 before each lecture.
 
+Lectures are zero-indexed, and we will work through them at a rate of one per week.
+
 <!-- 
 ### Lecture 0 (Aug 24)
 
