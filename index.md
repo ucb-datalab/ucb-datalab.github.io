@@ -19,7 +19,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>8/15 -- Lab 0 has been posted under the 'Lab' tab.</li>
+<li>8/15 -- Lab 0 has been posted under the 'Labs' tab.</li>
 </ul>
 </div>
 <!--
