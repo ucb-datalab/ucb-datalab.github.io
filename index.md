@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2022)
+## AY 128/256: Astronomy Data Science Lab (Fall 2022)
 
 <!--
 <div class="alert alert-primary" role="alert">
