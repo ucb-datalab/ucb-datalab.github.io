@@ -33,14 +33,13 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 <i>This course satisfies the <b>Data Science major requirement</b> for "Computational & Inferential Depth". Read more about the <a href="https://data.berkeley.edu/degrees/data-science-ba/upper-division">upper division classes for the Data Science BA</a>. This course also satisfies the <a href="https://astro.berkeley.edu/programs/undergraduate-program/astrophysics-major">Laboratory requirement for the <b>Astronomy Major</b></a>.</i>
 
+
 #### Instructors
 
 * Jessica Lu (jlu.astro@berkeley.edu; 259 Campbell Hall)
 * Aaron Parsons (aparsons@berkeley.edu; 455 Campbell Hall)
 * Natasha Abrams (GSI, nsabrams@berkeley.edu)
 * Jingshu Rui (GSI, jingshu_rui@berkeley.edu)
-
-
 
 
 #### Course Aims
@@ -64,15 +63,16 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
- * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9 (4pm)
- * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30 (4pm)
- * Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4 (4pm)
- * Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9 (4pm)
+* Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9 (4pm)
+* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30 (4pm)
+* Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4 (4pm)
+* Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9 (4pm)
  
 
 #### Lectures
 
-Mondays and Wednesdays 2:30-4pm in Campbell 131
+* Mondays and Wednesdays 2:30-4pm in Campbell 131
+* No lectures on university holidays (M 9/5, M 10/10, M 11/21, and W 11/23).
 
 
 #### Office Hours
@@ -80,7 +80,9 @@ Mondays and Wednesdays 2:30-4pm in Campbell 131
 * Aaron & Jessica: Wed 4-5pm, Campbell 501
 * Natasha: Mon 5-6p, Campbell 131
 * Jingshu: Mon 6-7p, Campbell 131
+* and by appointment
 * TALC: TBD
+
 
 #### Grading
 
