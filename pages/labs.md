@@ -13,7 +13,7 @@ Lab assignments will be posted here throughout the semester.
 
  
 - Lab 1
-  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/Lab1_AY128_Lab1_rrlyrae_dust.pdf)
+  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab1_rrlyrae_dust.pdf)
   (Due by 4pm, Fri Oct 7) "Gaia, RR Lyrae stars, and Galactic Dust"
     - Lab 1 Checkpoint 1 is due by midnight, 9/19, and will be discussed in class on Weds, 9/12.
     - Lab 1 Checkpoint 2 is due by midnight, 9/26, and will be discussed in class on Weds, 9/28.
