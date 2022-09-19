@@ -84,6 +84,10 @@ This course consists of three data-centric laboratory experiments that draw on a
 * and by appointment
 * TALC: TBD
 
+On lab-due weeks, GSIs will hold office hours:
+* Mon 5-6p, Campbell 131
+* Thu 7:30 - 8:30p, Campbell 131
+
 
 #### Grading
 
