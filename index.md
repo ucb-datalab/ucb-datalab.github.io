@@ -22,6 +22,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <li>8/15 -- Lab 0 has been posted under the 'Labs' tab.</li>
 <li>9/12 -- Lab 1 has been posted under the 'Labs' tab.</li>
 <li>10/9 -- Lab 2 has been posted under the 'Labs' tab.</li>
+<li>11/2 -- Lab 3 has been posted under the 'Labs' tab.</li>
 </ul>
 </div>
 <!--
@@ -65,10 +66,10 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
-* Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9 (4pm)
-* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30 (4pm)
-* Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4 (4pm)
-* Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9 (4pm)
+* Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
+* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30
+* Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4
+* Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9
  
 
 #### Lectures
