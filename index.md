@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Fall 2022)
+## AY 128/256: Astronomy Data Science Lab (Spring 2023)
 
 <!--
 <div class="alert alert-primary" role="alert">
@@ -16,7 +16,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
  All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/EVU8jj" alt="Ed Discussion">signed up</a>.
 </div>
 
-
+<!--
 <div class="alert alert-primary" role="alert">
 <ul>
 <li>8/15 -- Lab 0 has been posted under the 'Labs' tab.</li>
@@ -39,10 +39,9 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Jessica Lu (jlu.astro@berkeley.edu; 259 Campbell Hall)
-* Aaron Parsons (aparsons@berkeley.edu; 455 Campbell Hall)
-* Natasha Abrams (GSI, nsabrams@berkeley.edu)
-* Jingshu Rui (GSI, jingshu_rui@berkeley.edu)
+* Dan Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
+* Anna Pusack (GSI, anna_pusack@berkeley.edu)
+* Olivia Aspegren (GSI, oliviaaspegren@berkeley.edu)
 
 
 #### Course Aims
@@ -66,29 +65,32 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
+<!--
 * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
 * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30
 * Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4
 * Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9
+-->
  
 
 #### Lectures
 
-* Mondays and Wednesdays 2:30-4pm in Campbell 131
-* No lectures on university holidays (M 9/5, M 10/10, M 11/21, and W 11/23).
+* Tuesdays and Thursdays 2:30-4pm in 131 Campbell
+
 
 
 #### Office Hours
 
-* Aaron & Jessica: Wed 4-5pm, Campbell 501
-* Natasha: Mon 5-6p, Campbell 131
-* Jingshu: Mon 6-7p, Campbell 131
+* Dan: Tuesday 3:30-4:20pm, 131 Campbell
+* Anna/Olivia: Mon 2:30-3:30pm, 355 Campbell
 * and by appointment
-* TALC: TBD
+* TALC: Weds 2-4pm 131 Campbell
 
+<!--
 On lab-due weeks, GSIs will hold office hours:
 * Mon 5-6p, Campbell 131
 * Thu 7:30 - 8:30p, Campbell 131
+-->
 
 
 #### Grading
