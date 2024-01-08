@@ -6,7 +6,7 @@ title: Labs
 Lab assignments will be posted here throughout the semester. 
 
 
-<! -- 
+<!-- 
 - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab0_adql_gaia.pdf)
   (Due by 5pm, Fri Sep 9) "Introduction to ADQL and Gaia Data"
@@ -41,7 +41,4 @@ Lab assignments will be posted here throughout the semester.
 
 <!-- - Lab 4 [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/master/labs/Lab4_Astr128_S2022.pdf) (Not assigned) "The Hubble Constant" -->
      
-
-[//]: #  - Lab 3 [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/master/Labs/Lab_3_Astr128.pdf) (Due 4pm, April 15) "The Hubble Constant"
-
 
