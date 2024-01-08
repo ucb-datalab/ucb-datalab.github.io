@@ -57,12 +57,12 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Course Format
 
-* 4 credits (grad and undergrad)
+* 4 credits
 * 2 weekly 1.5 hour meetings
 * “Show & tell” progress reports + instructor lecture
 * 3.5 labs
 * Will require a fair amount of dedicated coding time
-* Grads will do more in-depth labs with a higher expectation for rigor
+<!-- * Grads will do more in-depth labs with a higher expectation for rigor -->
 
 #### Lab Schedule:
 
