@@ -5,6 +5,8 @@ title: Labs
 
 Lab assignments will be posted here throughout the semester. 
 
+
+<! -- 
 - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab0_adql_gaia.pdf)
   (Due by 5pm, Fri Sep 9) "Introduction to ADQL and Gaia Data"
@@ -32,7 +34,7 @@ Lab assignments will be posted here throughout the semester.
     - Lab 3 Checkpoint 1 is due by midnight, 11/14, and will be discussed in class on Weds, 11/16.
     - Lab 3 Checkpoint 2 is due by midnight, 11/28, and will be discussed in class on Weds, 11/30.
     - Lab 3 Checkpoint 3 is due by midnight, 12/05, and will be discussed in class on Weds, 12/7.
-
+-->
 <!-- <\!--  -->
 <!-- - Lab 3 [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/master/labs/Lab3_Astr128_2022.pdf) (Due by 4pm, Friday May 1) "Modeling Stellar Spectra" -->
 <!--      - checkpoints on 4/6, 4/13, 4/20, 4/27 -->
