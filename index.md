@@ -78,7 +78,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Office Hours
 
-* Dan: Tuesday 3:30-4:20pm, 131 Campbell
+* Dan: Tuesday 3:30-4:20pm, 355 Campbell
 * Anna/Olivia: Mon 2:30-3:30pm, 355 Campbell
 * and by appointment
 * TALC: Weds 2-4pm 131 Campbell
