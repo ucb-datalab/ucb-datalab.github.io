@@ -6,14 +6,13 @@ title: Labs
 Lab assignments will be posted here throughout the semester. 
 
 
-<!-- 
 - Lab 0
-  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab0_adql_gaia.pdf)
-  (Due by 5pm, Fri Sep 9) "Introduction to ADQL and Gaia Data"
-     - Lab 0 Checkpoint 1 is due by midnight, 8/29, and will be discussed in class on Weds, 8/31.
-     - Lab 0 Checkpoint 2 is due by midnight, 9/5, and will be discussed in class on Weds, 9/7.
+  [[pdf]](https://github.com/ucb-datalab/course_materials_2024/blob/main/labs/2024_AY128_Lab0_adql_gaia.pdf)
+  (Due by 11:59pm, Thurs Feb 1) "Introduction to ADQL and Gaia Data"
+     - Lab 0 Checkpoint 1 is due by midnight, 1/23, and will be discussed in class on Thurs, 1/25.
+     - Lab 0 Checkpoint 2 is due by midnight, 1/30, and will be discussed in class on Thurs, 2/1.
 
- 
+<!-- 
 - Lab 1
   [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab1_rrlyrae_dust.pdf)
   (Due by 5pm, Fri Oct 7) "Gaia, RR Lyrae stars, and Galactic Dust"
