@@ -72,7 +72,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lectures
 
-* Tuesdays and Thursdays 2:30-4pm in 131 Campbell
+* Tuesdays and Thursdays 2-3:30pm in 131 Campbell
 
 
 
