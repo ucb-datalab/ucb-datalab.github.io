@@ -17,13 +17,10 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
  All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/KkbnbJ" alt="Ed Discussion">signed up</a>.
 </div>
 
-<!--
+<!
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>8/15 -- Lab 0 has been posted under the 'Labs' tab.</li>
-<li>9/12 -- Lab 1 has been posted under the 'Labs' tab.</li>
-<li>10/9 -- Lab 2 has been posted under the 'Labs' tab.</li>
-<li>11/2 -- Lab 3 has been posted under the 'Labs' tab.</li>
+<li>1/12 -- Lab 0 has been posted under the 'Labs' tab.</li>
 </ul>
 </div>
 <!--
