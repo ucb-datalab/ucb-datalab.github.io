@@ -12,15 +12,15 @@ Lab assignments will be posted here throughout the semester.
      - Lab 0 Checkpoint 1 is due by midnight, 1/23, and will be discussed in class on Thurs, 1/25.
      - Lab 0 Checkpoint 2 is due by midnight, 1/30, and will be discussed in class on Thurs, 2/1.
 
-<!-- 
+
 - Lab 1
-  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab1_rrlyrae_dust.pdf)
-  (Due by 5pm, Fri Oct 7) "Gaia, RR Lyrae stars, and Galactic Dust"
-    - Lab 1 Checkpoint 1 is due by midnight, 9/19, and will be discussed in class on Weds, 9/12.
-    - Lab 1 Checkpoint 2 is due by midnight, 9/26, and will be discussed in class on Weds, 9/28.
-    - Lab 1 Checkpoint 3 is due by midnight, 10/3, and will be discussed in class on Weds, 10/5.
+  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2024_AY128_Lab1_rrlyrae_dust.pdf)
+  (Report due by 11:59pm, Thurs Feb 29) "Gaia, RR Lyrae stars, and Galactic Dust"
+    - Lab 1 Checkpoint 1 is due by midnight, 2/13, and will be discussed in class on Thurs, 2/15.
+    - Lab 1 Checkpoint 2 is due __before class__ on, 2/20, and will be discussed in class that day.
+    - Lab 1 Checkpoint 3 is due __before class__ on, 2/27, and will be discussed in class that day.
 
-
+<!-- 
 - Lab 2 
   [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab2_apogee_spectra.pdf) 
   (Due by 11:59pm, Fri Nov 4th) "Modeling Stellar Spectra"
