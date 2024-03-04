@@ -27,6 +27,7 @@ Lab assignments will be posted here throughout the semester.
     - Lab 2 Checkpoint 1 is due by midnight, 3/12, and will be discussed in class on Thurs, 3/14.
     - Lab 2 Checkpoint 2 is due by midnight, 3/19, and will be discussed in class on Thurs, 3/21.
     - Lab 2 Checkpoint 3 is due by midnight, 4/2, and will be discussed in class on Thurs, 4/4.
+  
 <!-- 
 - Lab 3 [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab3_image_classification.pdf)
   (Due by 11:59pm, Friday Dec 9th) "Galaxy image classification and the galaxy merger rate"
