@@ -21,6 +21,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <ul>
 <li>1/12 -- Lab 0 has been posted under the 'Labs' tab.</li>
 <li>1/31 -- Lab 1 has been posted under the 'Labs' tab.</li>
+<li>3/4 -- Lab 2 has been posted under the 'Labs' tab.</li>
 </ul>
 </div>
 <!--

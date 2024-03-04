@@ -20,14 +20,14 @@ Lab assignments will be posted here throughout the semester.
     - Lab 1 Checkpoint 2 is due __before class__ on, 2/20, and will be discussed in class that day.
     - Lab 1 Checkpoint 3 is due __before class__ on, 2/27, and will be discussed in class that day.
 
-<!-- 
-- Lab 2 
-  [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab2_apogee_spectra.pdf) 
-  (Due by 11:59pm, Fri Nov 4th) "Modeling Stellar Spectra"
-    - Lab 2 Checkpoint 1 is due by midnight, 10/17, and will be discussed in class on Weds, 10/19.
-    - Lab 2 Checkpoint 2 is due by midnight, 10/24, and will be discussed in class on Weds, 10/26.
-    - Lab 2 Checkpoint 3 is due by midnight, 10/31, and will be discussed in class on Weds, 11/2.
 
+- Lab 2 
+  [[pdf]](https://github.com/ucb-datalab/course_materials_2024/blob/main/labs/2024_AY128_Lab2_apogee_spectra.pdf) 
+  (Report due by 11:59pm, Thurs April 4) "Modeling Stellar Spectra"
+    - Lab 2 Checkpoint 1 is due by midnight, 3/12, and will be discussed in class on Thurs, 3/14.
+    - Lab 2 Checkpoint 2 is due by midnight, 3/19, and will be discussed in class on Thurs, 3/21.
+    - Lab 2 Checkpoint 3 is due by midnight, 4/2, and will be discussed in class on Thurs, 4/4.
+<!-- 
 - Lab 3 [[pdf]](https://github.com/ucb-datalab/course_materials_2022/blob/main/labs/2022_AY128_Lab3_image_classification.pdf)
   (Due by 11:59pm, Friday Dec 9th) "Galaxy image classification and the galaxy merger rate"
     - Lab 3 Checkpoint 1 is due by midnight, 11/14, and will be discussed in class on Weds, 11/16.
