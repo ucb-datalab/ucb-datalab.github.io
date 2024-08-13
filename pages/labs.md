@@ -5,6 +5,7 @@ title: Labs
 
 Lab assignments will be posted here throughout the semester. 
 
+<!--
 
 - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_2024/blob/main/labs/2024_AY128_Lab0_adql_gaia.pdf)

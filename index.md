@@ -3,20 +3,20 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2024)
+## AY 128/256: Astronomy Data Science Lab (Fall 2024)
 
-<!--
+
 <div class="alert alert-primary" role="alert">
 
 Interested in taking this class? You should read the <a href="https://ucb-datalab.github.io/pages/prereq.html">Prereqs</a> page carefully to make sure you'll be a good fit.<br/>
 </div>
--->
 
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/KkbnbJ" alt="Ed Discussion">signed up</a>.
+ All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a https://edstem.org/us/join/ruZfdd" alt="Ed Discussion">signed up</a>.
 </div>
 
+<!--
 <div class="alert alert-primary" role="alert">
 <ul>
 <li>1/12 -- Lab 0 has been posted under the 'Labs' tab.</li>
@@ -39,9 +39,10 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Dan Weisz (dan.weisz@berkeley.edu; 311 Campbell Hall)
-* Anna Pusack (GSI, anna_pusack@berkeley.edu)
-* Olivia Aspegren (GSI, oliviaaspegren@berkeley.edu)
+* Joshua Bloom (Professor, joshbloom@berkeley.edu; 203 Campbell Hall)
+* Aaron Parsons (Professor, aparsons@berkeley.edu; 425 Campbell Hall)
+* Saahit Srihari Mogan  (GSI, smogan@berkeley.edu>)
+* Peter Ma (GSI, peter_ma@berkeley.edu)
 
 
 #### Course Aims
@@ -61,9 +62,11 @@ This course consists of three data-centric laboratory experiments that draw on a
 * “Show & tell” progress reports + instructor lecture
 * 3.5 labs
 * Will require a fair amount of dedicated coding time
-<!-- * Grads will do more in-depth labs with a higher expectation for rigor -->
+* Grad students will do more in-depth labs with a higher expectation for rigor
 
 #### Lab Schedule:
+
+TBD 
 
 <!--
 * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
@@ -75,16 +78,14 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lectures
 
-* Tuesdays and Thursdays 2-3:30pm in 131 Campbell
-
+* Monday and Wednesday  10:30 am-noon in 131 Campbell
 
 
 #### Office Hours
 
-* Dan: Tuesday 3:30-4:20pm, 355 Campbell
-* Anna/Olivia: Mon 2:30-3:30pm, 355 Campbell
-* and by appointment
-* TALC: Weds 2-4pm 131 Campbell
+* Dan: TBD
+* Peter/Saahit: TBD
+* TALC: TBD
 
 <!--
 On lab-due weeks, GSIs will hold office hours:
@@ -95,7 +96,7 @@ On lab-due weeks, GSIs will hold office hours:
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/join/KkbnbJ">invite link</a>)
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/join/ruZfdd">invite link</a>)
  
  * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
@@ -106,3 +107,6 @@ On lab-due weeks, GSIs will hold office hours:
 
 * There are no formal prereqs for this class but there are a number of informal requirements, [outlined in this document](https://ucb-datalab.github.io/pages/prereq.html), which you must satisfy.
 
+#### Use of Generative AI models & LLMs
+
+Please see the Academic Use Policy of Artificial Intelligence (AI) for the policy in this course: https://github.com/profjsb/ucbastro-ai-policy/blob/main/policy.md
