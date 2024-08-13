@@ -109,4 +109,4 @@ On lab-due weeks, GSIs will hold office hours:
 
 #### Use of Generative AI models & LLMs
 
-Please see the Academic Use Policy of Artificial Intelligence (AI) for the policy in this course: https://github.com/profjsb/ucbastro-ai-policy/blob/main/policy.md
+Please see the <a href="https://github.com/profjsb/ucbastro-ai-policy/blob/main/policy.md">Academic Use Policy of Artificial Intelligence (AI)</a> for the policy in this course.
