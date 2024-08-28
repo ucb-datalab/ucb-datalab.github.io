@@ -83,8 +83,8 @@ TBD
 
 #### Office Hours
 
-* Dan: TBD
-* Peter/Saahit: 1-2pm Tues RM 355 Campbell Hall (Peter) / 4pm-6pm Wed (Saahit)
+* Josh/Aaron: 12-1pm Monday (Josh) / 12-1p Friday (Aaron)
+* Peter/Saahit: 1-2pm Tues (Peter) / 4pm-6pm Wed (Saahit)
 * TALC: TBD
 
 <!--
