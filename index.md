@@ -16,18 +16,20 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
  All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/ruZfdd" alt="Ed Discussion">signed up</a>.
 </div>
 
-<!--
+
 <div class="alert alert-primary" role="alert">
 <ul>
-<li>1/12 -- Lab 0 has been posted under the 'Labs' tab.</li>
-<li>1/31 -- Lab 1 has been posted under the 'Labs' tab.</li>
+<li>8/23 -- Lab 0 has been posted under the 'Labs' tab.</li>
+<li>9/9 -- Lab 1 has been posted under the 'Labs' tab.</li>
+</ul>
+</div>
+
+<!--
 <li>3/4 -- Lab 2 has been posted under the 'Labs' tab.</li>
 <li>4/4 -- Lab 3 has been posted under the 'Labs' tab.</li>
 </ul>
 </div>
-<!--
-</ul>
-</div> -->
+-->
 
 #### Synopsis
 
@@ -66,15 +68,12 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
-TBD 
 
-<!--
 * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
-* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/12, Due: Fri 9/30
-* Lab 2 (Stellar Spectra) — Assigned: Mon 10/10, Due Fri 11/4
-* Lab 3 (Galaxy Classification) — Assigned: Mon 11/7, Due Fri 12/9
--->
- 
+* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/9, Due: Fri 10/4
+* Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due Fri 11/1
+* Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6
+
 
 #### Lectures
 
@@ -83,9 +82,10 @@ TBD
 
 #### Office Hours
 
-* Josh/Aaron: 12-1pm Monday (Josh) / 12-1p Friday (Aaron)
-* Peter/Saahit: 1-2pm Tues (Peter) / 4pm-6pm Wed (Saahit)
-* TALC: TBD
+* Josh/Aaron: 12-1pm Monday (Josh) / 12-1p Friday (Aaron) (Campbell 355)
+* Peter: 1-2pm Tues  (355)
+* Saahit:  5-6pm Wed (355) and 4-5pm Thu  (233)
+
 
 <!--
 On lab-due weeks, GSIs will hold office hours:
