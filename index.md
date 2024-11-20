@@ -86,7 +86,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 * Josh/Aaron: 12-1pm Monday (Josh) / 12-1p Friday (Aaron) (Campbell 355)
 * Peter: 1-2pm Tues  (355)
-* Saahit:  5-6pm Wed (355) and 4-5pm Thu  (233)
+* Saahit:  5-7pm Wed (355) and 4-5pm Thu  (233)
 
 
 <!--
