@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Fall 2024)
+## AY 128/256: Astronomy Data Science Lab (Spring 2025)
 
 
 <div class="alert alert-primary" role="alert">
@@ -13,7 +13,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 
 
 <div class="alert alert-info" role="alert">
- All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/ruZfdd" alt="Ed Discussion">signed up</a>.
+ <!--  All timely announcements will be made via <b>Ed Discussion</b>. Please be sure you are <a href="https://edstem.org/us/join/ruZfdd" alt="Ed Discussion">signed up</a>. -->
 </div>
 
 
@@ -22,7 +22,7 @@ Interested in taking this class? You should read the <a href="https://ucb-datala
 <!-- <li>8/23 -- Lab 0 has been posted under the 'Labs' tab.</li>
 <li>9/9 -- Lab 1 has been posted under the 'Labs' tab.</li>
 -->
-<li>10/7 -- Lab 2 has been posted under the 'Labs' tab.</li>
+<!-- <li>10/7 -- Lab 2 has been posted under the 'Labs' tab.</li> -->
 </ul>
 </div>
 
@@ -43,10 +43,8 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Joshua Bloom (Professor, joshbloom@berkeley.edu; 203 Campbell Hall)
-* Aaron Parsons (Professor, aparsons@berkeley.edu; 425 Campbell Hall)
+* Dan Weisz (Professor, dan.weisz@berkeley.edu; 311 Campbell Hall)
 * Saahit Srihari Mogan  (GSI, smogan@berkeley.edu>)
-* Peter Ma (GSI, peter_ma@berkeley.edu)
 
 
 #### Course Aims
@@ -70,23 +68,22 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
-
+<!--
 * Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
 * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/9, Due: Fri 10/4
 * Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due Fri 11/1
 * Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6
-
+-->
 
 #### Lectures
 
-* Monday and Wednesday  10:30 am-noon in 131 Campbell
+* Tuesday and Thursday  2:00-3:30pm in 131 Campbell
 
 
 #### Office Hours
 
-* Josh/Aaron: 12-1pm Monday (Josh) / 12-1p Friday (Aaron) (Campbell 355)
-* Peter: 1-2pm Tues  (355)
-* Saahit:  5-7pm Wed (355) and 4-5pm Thu  (233)
+* Dan: 3:30-4:30pm Tuesday (Campbell 355)
+* Saahit:  1-3pm Monday (355) and 12:30-2pm Thursday (355)
 
 
 <!--
