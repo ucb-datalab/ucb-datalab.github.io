@@ -64,14 +64,16 @@ This course consists of three data-centric laboratory experiments that draw on a
 * “Show & tell” progress reports + instructor lecture
 * 3.5 labs
 * Will require a fair amount of dedicated coding time
-* Grad students will do more in-depth labs with a higher expectation for rigor
+<!-- * Grad students will do more in-depth labs with a higher expectation for rigor -->
 
 #### Lab Schedule:
 
+
+* Lab 0 (Clusters) — Assigned: Fri 1/217, Due: Thurs 2/6
+* Lab 1 (Variable Stars & Dust) — Assigned: Thus 2/6, Due: Thus 3/6
+
 <!--
-* Lab 0 (Clusters) — Assigned: Weds 8/24, Due: Fri 9/9
-* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/9, Due: Fri 10/4
-* Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due Fri 11/1
+* Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due  11/1
 * Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6
 -->
 
@@ -97,9 +99,9 @@ On lab-due weeks, GSIs will hold office hours:
 
  * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/join/ruZfdd">invite link</a>)
  
- * 65%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
+ * 60%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
- * 25%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness.
+ * 30%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness and presenting and leading discussion on at least one checkpoint topic
 
 
 #### Prereqs
