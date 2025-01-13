@@ -4,30 +4,33 @@ title: Labs
 ---
 
 Lab assignments will be posted here throughout the semester. 
-
+<!--
 - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_fall2024/blob/main/labs/AY128_256_Lab0_adql_gaia_fall2024.pdf) "Introduction to ADQL and Gaia Data"
 
-<!--
+
   (Due by 11:59pm, Thurs Feb 1) "Introduction to ADQL and Gaia Data"
      - Lab 0 Checkpoint 1 is due by midnight, 1/23, and will be discussed in class on Thurs, 1/25.
      - Lab 0 Checkpoint 2 is due by midnight, 1/30, and will be discussed in class on Thurs, 2/1.
 -->
 
+<!--
 - Lab 1
   [[pdf]](https://github.com/ucb-datalab/course_materials_fall2024/blob/main/labs/AY128_256_Lab1_rrlyrae_dust_fall2024.pdf)
   (Report due by 11:59pm, Friday October 4) "Gaia, RR Lyrae stars, and Galactic Dust"
 
-<!--
+
     - Lab 1 Checkpoint 1 is due by midnight, 2/13, and will be discussed in class on Thurs, 2/15.
     - Lab 1 Checkpoint 2 is due __before class__ on, 2/20, and will be discussed in class that day.
     - Lab 1 Checkpoint 3 is due __before class__ on, 2/27, and will be discussed in class that day.
 -->
 
+<!-- 
 - Lab 2 
   [[pdf]](https://github.com/ucb-datalab/course_materials_fall2024/blob/main/labs/AY128_256_Lab2_apogee_spectra_fall2024.pdf) 
   (Report due by 11:59pm, Friday, November 1, 2024) "Modeling Stellar Spectra"
     - Checkpoint due dates (@ 11:59pm): Wednesday, October 16, 2024; Wednesday, October 23, 2024;  Wednesday, October 30, 2024
+-->
   
 <!--
 - Lab 3 [[pdf]](https://github.com/ucb-datalab/course_materials_2024/blob/main/labs/2024_AY128_Lab3_image_classification.pdf)
