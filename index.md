@@ -44,7 +44,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Instructors
 
 * Dan Weisz (Professor, dan.weisz@berkeley.edu; 311 Campbell Hall)
-* Saahit Srihari Mogan  (GSI, smogan@berkeley.edu>)
+* Saahit Srihari Mogan  (GSI, smogan@berkeley.edu)
 
 
 #### Course Aims
@@ -97,7 +97,7 @@ On lab-due weeks, GSIs will hold office hours:
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/join/ruZfdd">invite link</a>)
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/courses/73439">invite link</a>)
  
  * 60%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
 
