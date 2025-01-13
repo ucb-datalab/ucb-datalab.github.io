@@ -69,7 +69,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Lab Schedule:
 
 
-* Lab 0 (Clusters) — Assigned: Fri 1/217, Due: Thurs 2/6
+* Lab 0 (Clusters) — Assigned: Fri 1/17, Due: Thurs 2/6
 * Lab 1 (Variable Stars & Dust) — Assigned: Thus 2/6, Due: Thus 3/6
 
 <!--
