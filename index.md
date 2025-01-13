@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128/256: Astronomy Data Science Lab (Spring 2025)
+## AY 128: Astronomy Data Science Lab (Spring 2025)
 
 
 <div class="alert alert-primary" role="alert">

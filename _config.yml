@@ -8,10 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: AY 128/256 UC Berkeley Astronomy Data Lab
+title: AY 128 UC Berkeley Astronomy Data Lab
 author:
-  name: Joshua Bloom
-  email: joshbloom@berkeley.edu
+  name: Dan Weisz
+  email: dan.weisz@berkeley.edu
   github:
   twitter: 
   feedburner: 
