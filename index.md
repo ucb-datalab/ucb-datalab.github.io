@@ -97,11 +97,11 @@ On lab-due weeks, GSIs will hold office hours:
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on Ed Discussion (<a href="https://edstem.org/us/courses/73439">invite link</a>)
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on (<a href="https://edstem.org/us/courses/73439">Ed Discussion </a>).
  
- * 60%: Lab Reports/Notebooks – due before specified class, -10% for each day late, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. We'll drop your 2 lowest checkpoint scores.
+ * 60%: Lab Reports/Notebooks – due before specified class, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. See syllabus for grading and late policy.
 
- * 30%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness and presenting and leading discussion on at least one checkpoint topic
+ * 30%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness and presenting and leading discussion on at least one checkpoint topic. We'll drop your 2 lowest checkpoint scores, no extensions on checkpoints.
 
 
 #### Prereqs
