@@ -4,11 +4,11 @@ title: Labs
 ---
 
 Lab assignments will be posted here throughout the semester. 
-<!--
+
 - Lab 0
-  [[pdf]](https://github.com/ucb-datalab/course_materials_fall2024/blob/main/labs/AY128_256_Lab0_adql_gaia_fall2024.pdf) "Introduction to ADQL and Gaia Data"
+  [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab0_adql_gaia_spring2025.pdf) "Introduction to ADQL and Gaia Data"
 
-
+<!--
   (Due by 11:59pm, Thurs Feb 1) "Introduction to ADQL and Gaia Data"
      - Lab 0 Checkpoint 1 is due by midnight, 1/23, and will be discussed in class on Thurs, 1/25.
      - Lab 0 Checkpoint 2 is due by midnight, 1/30, and will be discussed in class on Thurs, 2/1.
