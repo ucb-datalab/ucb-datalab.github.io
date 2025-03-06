@@ -87,7 +87,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Office Hours
 
 * Dan: 3:30-4:30pm Tuesday (Campbell 355)
-* Saahit: 1-3pm Monday (355) and 12:30-2pm Thursday (355)
+* Saahit: 1-3pm Monday (Campbell 355) and 12:30-2pm Thursday (Physics 102B)
 
 
 <!--
