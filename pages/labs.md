@@ -14,7 +14,7 @@ Lab assignments will be posted here throughout the semester.
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab1_rrlyrae_dust_spring2025.pdf)
   (Report due by 11:59pm, Thursday March 6) "Gaia, RR Lyrae stars, and Galactic Dust"
 
-  - Lab 2
+- Lab 2
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab2_apogee_spectra_spring2025.pdf)
   (Report due by 11:59pm, Thursday April 10) "Modeling Stellar Spectra"
 
