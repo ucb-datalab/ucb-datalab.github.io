@@ -23,6 +23,7 @@ All timely announcements will be made via <b>Ed Discussion</b>.
 <li>1/17 -- Lab 0 has been posted under the 'Labs' tab.</li>
 <li>2/5 -- Lab 1 has been posted under the 'Labs' tab.</li>
 <li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li>
+<li>4/15 -- Lab 3 has been posted under the 'Labs' tab.</li>
 
 <!-- <li>10/7 -- Lab 2 has been posted under the 'Labs' tab.</li> -->
 </ul>
