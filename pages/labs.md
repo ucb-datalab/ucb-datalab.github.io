@@ -18,7 +18,7 @@ Lab assignments will be posted here throughout the semester.
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab2_apogee_spectra_spring2025.pdf)
   (Report due by 11:59pm, Thursday April 10) "Modeling Stellar Spectra"
 
-  - Lab 3
+- Lab 3
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab3_image_classification_spring2025.pdf)
   (Report due by 11:59pm, Friday May 9) "Galaxy image classification and the galaxy merger rate"
 
