@@ -5,10 +5,8 @@ title: Labs
 
 Lab assignments will be posted here throughout the semester. 
 
-- Lab 0
+<!-- - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab0_adql_gaia_spring2025.pdf) "Introduction to ADQL and Gaia Data"
-
-
 
 - Lab 1
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab1_rrlyrae_dust_spring2025.pdf)
@@ -20,7 +18,7 @@ Lab assignments will be posted here throughout the semester.
 
 - Lab 3
   [[pdf]](https://github.com/ucb-datalab/course_materials_sp2025/blob/main/labs/AY128_256_Lab3_image_classification_spring2025.pdf)
-  (Report due by 11:59pm, Friday May 9) "Galaxy image classification and the galaxy merger rate"
+  (Report due by 11:59pm, Friday May 9) "Galaxy image classification and the galaxy merger rate" -->
 
 
 <!--    - Lab 1 Checkpoint 1 is due by midnight, 2/13, and will be discussed in class on Thurs, 2/15.

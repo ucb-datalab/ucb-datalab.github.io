@@ -3,7 +3,7 @@ layout: frontpage
 title: Astronomy Data Science Lab
 ---
 
-## AY 128: Astronomy Data Science Lab (Spring 2025)
+## AY 128: Astronomy Data Science Lab (Fall 2025)
 
 
 <div class="alert alert-primary" role="alert">
@@ -18,23 +18,14 @@ All timely announcements will be made via <b>Ed Discussion</b>.
 </div>
 
 
-<div class="alert alert-primary" role="alert">
+<!-- <div class="alert alert-primary" role="alert">
 <ul>
 <li>1/17 -- Lab 0 has been posted under the 'Labs' tab.</li>
 <li>2/5 -- Lab 1 has been posted under the 'Labs' tab.</li>
 <li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li>
 <li>4/15 -- Lab 3 has been posted under the 'Labs' tab.</li>
-
-<!-- <li>10/7 -- Lab 2 has been posted under the 'Labs' tab.</li> -->
 </ul>
-</div>
-
-<!--
-<li>3/4 -- Lab 2 has been posted under the 'Labs' tab.</li>
-<li>4/4 -- Lab 3 has been posted under the 'Labs' tab.</li>
-</ul>
-</div>
--->
+</div> -->
 
 #### Synopsis
 
@@ -46,8 +37,8 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Dan Weisz (Professor, dan.weisz@berkeley.edu; 311 Campbell Hall)
-* Saahit Srihari Mogan  (GSI, smogan@berkeley.edu)
+* Aaron Parsons (Professor, aparsons@berkeley.edu; 455 Campbell Hall)
+* Saahit Mogan  (GSI, smogan@berkeley.edu)
 
 
 #### Course Aims
@@ -71,31 +62,20 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
-
-* Lab 0 (Clusters) — Assigned: Fri 1/17, Due: Thurs 2/6
+<!-- * Lab 0 (Clusters) — Assigned: Fri 1/17, Due: Thurs 2/6
 * Lab 1 (Variable Stars & Dust) — Assigned: Thus 2/6, Due: Thus 3/6
-
-<!--
 * Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due  11/1
-* Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6
--->
+* Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6 -->
 
 #### Lectures
 
-* Tuesday and Thursday  2:00-3:30pm in 131 Campbell
+* Monday and Wednesday 10:30am-12:00pm in 131 Campbell
 
 
 #### Office Hours
 
-* Dan: 3:30-4:30pm Tuesday (Campbell 355)
-* Saahit: 1-3pm Monday (Campbell 355) and 12:30-2pm Thursday (Physics 102B)
-
-
-<!--
-On lab-due weeks, GSIs will hold office hours:
-* Mon 5-6p, Campbell 131
-* Thu 7:30 - 8:30p, Campbell 131
--->
+* Aaron: TBD
+* Saahit: TBD
 
 
 #### Grading
