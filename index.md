@@ -93,4 +93,4 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Use of Generative AI models & LLMs
 
-Please see the <a href="https://ucb-datalab.github.io/pages/ai_policy.md">Academic Use Policy of Artificial Intelligence (AI)</a> for the policy in this course.
+Please see the <a href="https://ucb-datalab.github.io/pages/ai_policy.html">Academic Use Policy of Artificial Intelligence (AI)</a> for the policy in this course.
