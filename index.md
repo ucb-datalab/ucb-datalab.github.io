@@ -75,7 +75,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Office Hours
 
 * Aaron: TBD
-* Saahit: TBD
+* Saahit: Wednesday 12:00-1:30pm in Campbell 219 and Thursday 1:30-3:30pm in Campbell 501B 
 
 
 #### Grading
@@ -84,7 +84,7 @@ This course consists of three data-centric laboratory experiments that draw on a
  
  * 60%: Lab Reports/Notebooks – due before specified class, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. See syllabus for grading and late policy.
 
- * 30%: Lab Checkpoints – weekly progress goals for each lab; graded mostly for completeness and presenting and leading discussion on at least one checkpoint topic. We'll drop your 2 lowest checkpoint scores, no extensions on checkpoints.
+ * 30%: Lab Checkpoints – weekly progress goals for each lab; graded for completeness and presenting and leading discussions.
 
 
 #### Prereqs
