@@ -80,7 +80,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on (<a href="https://edstem.org/us/courses/73439">Ed Discussion </a>).
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on (<a href="https://edstem.org/us/courses/83469">Ed Discussion </a>).
  
  * 60%: Lab Reports/Notebooks – due before specified class, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. See syllabus for grading and late policy.
 
@@ -93,4 +93,4 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Use of Generative AI models & LLMs
 
-Please see the <a href="https://github.com/profjsb/ucbastro-ai-policy/blob/main/policy.md">Academic Use Policy of Artificial Intelligence (AI)</a> for the policy in this course.
+Please see the <a href="https://ucb-datalab.github.io/pages/ai_policy.html">Academic Use Policy of Artificial Intelligence (AI)</a> for the policy in this course.
