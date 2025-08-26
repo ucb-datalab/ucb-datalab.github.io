@@ -45,8 +45,6 @@ Resources will be posted here throughout the semester. Diving into this (edifyin
 
 - ["The Visual Display of Quantitative Information"](https://www.edwardtufte.com/tufte/books_vdqi) (E. Tufte). Called *"The century's best book on statistical graphics"* this the go-to reference for understanding the core principles of information display.
 
-<img src="https://www.edwardtufte.com/tufte/graphics/vdqi_bookcover.gif" width="20%">
-
 ### Packages and Code
 
 - ["`astroquery`: An Astronomical Web-Querying Package in Python"](https://arxiv.org/abs/1901.04520) (A. Ginsburg et al.). Main Python-based query tool for (remote) astronomical databases.
