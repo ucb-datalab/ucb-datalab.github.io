@@ -37,7 +37,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Instructors
 
-* Aaron Parsons (Professor, aparsons@berkeley.edu; 455 Campbell Hall)
+* Aaron Parsons (Professor, aparsons@berkeley.edu; 425 and 455 Campbell Hall)
 * Saahit Mogan  (GSI, smogan@berkeley.edu)
 
 
@@ -74,7 +74,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Office Hours
 
-* Aaron: TBD
+* Aaron: Monday 12:00-1:00pm and Friday 10:00-11:00a in Campbell 425
 * Saahit: Wednesday 12:00-1:30pm in Campbell 219 and Thursday 1:30-3:30pm in Campbell 355 
 
 
