@@ -6,7 +6,7 @@ title: Labs
 Lab assignments will be posted here throughout the semester. 
 
 - Lab 0
-  [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_256_Lab0_adql_gaia_fall2025.pdf) "Introduction to ADQL and Gaia Data"
+  [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_Lab0_adql_gaia_fall2025.pdf) "Introduction to ADQL and Gaia Data"
 
 <!-- 
 - Lab 1
