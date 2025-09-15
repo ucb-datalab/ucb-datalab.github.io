@@ -8,11 +8,10 @@ Lab assignments will be posted here throughout the semester.
 - Lab 0
   [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_Lab0_adql_gaia_fall2025.pdf) "Introduction to ADQL and Gaia Data"
 
-<!-- 
 - Lab 1
-  [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_256_Lab1_rrlyrae_dust_fall2025.pdf)
-  (Report due by 11:59pm, Thursday March 6) "Gaia, RR Lyrae stars, and Galactic Dust"
+  [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_Lab1_rrlyrae_dust_fall2025.pdf) "Gaia, RR Lyrae stars, and Galactic Dust"
 
+<!-- 
 - Lab 2
   [[pdf]](https://github.com/ucb-datalab/course_materials_fa2025/blob/main/labs/AY128_256_Lab2_apogee_spectra_fall2025.pdf)
   (Report due by 11:59pm, Thursday April 10) "Modeling Stellar Spectra"
