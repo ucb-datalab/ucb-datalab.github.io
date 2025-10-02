@@ -62,9 +62,9 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Lab Schedule:
 
-<!-- * Lab 0 (Clusters) — Assigned: Fri 1/17, Due: Thurs 2/6
-* Lab 1 (Variable Stars & Dust) — Assigned: Thus 2/6, Due: Thus 3/6
-* Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due  11/1
+* Lab 0 (Clusters) — Assigned: Fri 8/22, Due: Sun 9/14
+* Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/15, Due: Sun 10/12
+<!-- * Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due  11/1
 * Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6 -->
 
 #### Lectures
@@ -75,7 +75,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 #### Office Hours
 
 * Aaron: Monday 12:00-1:00pm and Friday 10:00-11:00am in Campbell 425
-* Saahit: Wednesday 12:00-1:30pm in Campbell 219 and Thursday 1:30-3:30pm in Campbell 501B 
+* Saahit: Wednesday 1:00-2:00pm in Campbell 419 and Thursday 1:30-3:30pm in Campbell 501B 
 
 
 #### Grading
