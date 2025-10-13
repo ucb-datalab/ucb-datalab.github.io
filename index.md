@@ -22,7 +22,7 @@ All timely announcements will be made via <b>Ed Discussion</b>.
 <ul>
 <li>Lab 0 has been posted under the 'Labs' tab.</li>
 <li>Lab 1 has been posted under the 'Labs' tab.</li>
-<!-- <li>3/6 -- Lab 2 has been posted under the 'Labs' tab.</li> -->
+<li>Lab 2 has been posted under the 'Labs' tab.</li>
 <!-- <li>4/15 -- Lab 3 has been posted under the 'Labs' tab.</li> -->
 </ul>
 </div>
@@ -64,7 +64,8 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 * Lab 0 (Clusters) — Assigned: Fri 8/22, Due: Sun 9/14
 * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/15, Due: Sun 10/12
-<!-- * Lab 2 (Stellar Spectra) — Assigned: Mon 10/7, Due  11/1
+* Lab 2 (Stellar Spectra) — Assigned: Mon 10/13, Due: Sun 11/9
+<!--
 * Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6 -->
 
 #### Lectures
