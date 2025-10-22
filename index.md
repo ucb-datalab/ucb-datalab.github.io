@@ -65,8 +65,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 * Lab 0 (Clusters) — Assigned: Fri 8/22, Due: Sun 9/14
 * Lab 1 (Variable Stars & Dust) — Assigned: Mon 9/15, Due: Sun 10/12
 * Lab 2 (Stellar Spectra) — Assigned: Mon 10/13, Due: Sun 11/9
-<!--
-* Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6 -->
+<!-- * Lab 3 (Galaxy Classification) — Assigned: Mon 11/4, Due Fri 12/6 -->
 
 #### Lectures
 
