@@ -78,7 +78,7 @@ This course consists of three data-centric laboratory experiments that draw on a
 
 #### Grading
 
- * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on (<a href="https://edstem.org/us/courses/84004/discussion">Ed Discussion </a>).
+ * 10%: Class Participation – Active engagement in class discussion and lecture, participation during "show and tell", attending office hours, Q&A engagement on (<a href="https://edstem.org/us/courses/84004/discussion">Ed Discussion</a>).
  
  * 60%: Lab Reports/Notebooks – due before specified class, you can collaborate with people in the class, but all work, writeups, notebooks, coding, plots, etc. MUST be your own. See syllabus for grading and late policy.
 
