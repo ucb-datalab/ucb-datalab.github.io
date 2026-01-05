@@ -94,15 +94,15 @@
 
     &.lecture {
       background-color: $grey-lt-300;
-      color: $grey-dk-300;
+      color: $grey-dk-300;  
     }
 
-    &.section {
-      background-color: darken($purple-000, 15%);
-    }
-
-    &.office-hours {
+    &.instructor-office-hours {
       background-color: darken($green-200, 10%);
+    }
+
+    &.ta-office-hours {
+      background-color: darken($purple-000, 15%);
     }
   }
 }

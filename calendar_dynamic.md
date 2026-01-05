@@ -1,8 +1,7 @@
 ---
 layout: calendar_dynamic
-title: Calendar (Dynamic)
+# title: Calendar (Dynamic)
 description: Lecture, Discussion and OH schedules
-nav_order: 3
 ---
 
 # Calendar (Dynamic)

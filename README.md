@@ -56,3 +56,5 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for instructions on how to develo
 ## License
 
 [MIT](LICENSE)
+
+<!-- [![Run rspec tests](https://github.com/ORG/REPO/actions/workflows/rspec.yml/badge.svg)](https://github.com/ORG/REPO/actions/workflows/rspec.yml) -->
