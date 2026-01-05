@@ -291,6 +291,7 @@ exclude:
   - calendar_dynamic.md
   - home.md
   - announcements.md
+  - staff.md
   - _hw/
   - _projects/
   - _announcements/
