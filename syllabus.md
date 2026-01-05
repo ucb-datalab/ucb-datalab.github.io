@@ -71,7 +71,7 @@ See the [calendar](/sp26/calendar) for the regular office hours schedule and che
 ## Computing Resources
 
 {: .note }
-Each student will be given access to [Datahub](https://astro.datahub.berkeley.edu) and the [Savio HPC cluster](/sp26/resources/savio) to execute their code. 
+Some of the labs are computationally intensive. Each student will be given access to [Datahub](https://astro.datahub.berkeley.edu) and the [Savio HPC cluster](/sp26/resources/savio) to execute their code. 
 
 We are committed to ensuring that every student in our department is able to engage in our courses without incurring undue financial burdens.
 
