@@ -31,6 +31,15 @@ The weekly lectures will provide you with broad background, but are not intended
 
 Research is fun, but challenging. It usually does not progress linearly, and you often have to take a few steps backward before ultimately moving forward. *Ultimately, we want you to succeed in this class. We know that Berkeley can at times be an overwhelming place. If you find yourself struggling to keep up, please come talk to us, we’re here to help you succeed.*
 
+## Course Goals
+
+- Introduce and motivate a range of analysis techniques and data pipelining
+- Gain practical, in-depth experience with real, open-ended astronomical challenges
+- Build reproducible, well-tested, well-documented software
+- Learn to work with open data and code in an open science environment
+- Hone presentation and visualization skills
+- Develop skills applicable to careers in academia and industry
+
 ## Prerequisites
 
 - This class assumes that you have completed **introductory astrophysical instruction** (ASTRON 7A and 7B, or higher such as ASTRON 160/161) as well as knowledge of calculus (including Math 53) and **linear algebra** (MATH 54 or PHYSICS 89).

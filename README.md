@@ -40,6 +40,10 @@ Note that if you alter `_config.yml`, you will need to rerun the above command t
 
 Search throughout the repository for TODO items called `TODO(setup)` and complete them to customize the site for your course.
 
+## Updating Material
+
+Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
+
 <!-- ## Deployment
 
 The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). -->
