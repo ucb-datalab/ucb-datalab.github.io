@@ -1,10 +1,10 @@
 # ASTRON 128 Class Site
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml)
+[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml)
+<!-- [![a11y specs](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/rspec.yml) -->
 [![Run rspec tests](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml/badge.svg)](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml)
 
-based on a template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
+Based on a template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
 
 ## Installation
 
