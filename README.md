@@ -5,7 +5,7 @@
 
 Based on a template for UC Berkeley class websites.
 
-## Installation
+## Installation for local testing
 
 ### Install Ruby and Bundler
 **The berkeley-class-site template requires Ruby 3.3.7 or higher and bundler >= 2.6**
@@ -44,10 +44,10 @@ Search throughout the repository for TODO items called `TODO(setup)` and complet
 
 Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](https://docs.google.com/spreadsheets/d/1pL92lUnvS_BPTLwlN3l0XjLInFxI9Inaiv5IavSHxXk/edit?usp=sharing). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
 
-<!-- ## Deployment
-
-The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). -->
+<!-- TODO: Need to add lab links to setup_scedule.py,  -->
 
 ## License
 
 [MIT](LICENSE)
+
+<!-- Revert to commit 4196bfedcf700d485d4fd133c03545264f252299 to revert to the old website -->
