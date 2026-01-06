@@ -1,12 +1,53 @@
-# ucb-datalab.github.io
+# ASTRON 128 Class Site
 
-This is the GitHub repository for the website for the UCB Astronomy Datalab AY128/256 course which is located at [http://ucb-datalab.github.io](https://ucb-datalab.github.io/). 
+[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml)
+[![Run rspec tests](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml/badge.svg)](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml)
 
-Build and run with:
+Based on a template for UC Berkeley class websites.
+
+## Installation
+
+### Install Ruby and Bundler
+**The berkeley-class-site template requires Ruby 3.3.7 or higher and bundler >= 2.6**
+Install Ruby before continuing. You can check your Ruby version by running:
+
+```bash
+ruby --version
+bundle --version
+```
+
+Prerequisites:
+
+- You have everything that [Jekyll requires](https://jekyllrb.com/docs/installation/)
+- You have installed [Bundler](https://bundler.io/): Run `gem install jekyll bundler`
+
+Install dependencies:
 
 ```
-sh docker-build.sh
-sh docker-run.sh
+cd YOUR_REPO
+bundle install
 ```
 
-This site uses https://github.com/datasciencelabs as the Jekyll template.
+## Usage
+
+To run the site locally, run:
+
+```
+bundle exec jekyll serve
+```
+
+Note that if you alter `_config.yml`, you will need to rerun the above command to see the changes reflected.
+
+Search throughout the repository for TODO items called `TODO(setup)` and complete them to customize the site for your course.
+
+## Updating Material
+
+Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](https://docs.google.com/spreadsheets/d/1pL92lUnvS_BPTLwlN3l0XjLInFxI9Inaiv5IavSHxXk/edit?usp=sharing). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
+
+<!-- ## Deployment
+
+The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). -->
+
+## License
+
+[MIT](LICENSE)

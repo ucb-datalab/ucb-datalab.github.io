@@ -1,0 +1,64 @@
+---
+title: Resources
+permalink: /resources/
+published: true
+layout: page
+has_children: true
+nav_order: 5
+---
+
+# Resources
+
+Diving into this (edifying) material should be of keen interest to those taking the class, but do not consider these formal reading assignments.
+
+## Recommended Textbook
+
+- ["Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data "](https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687) (Ivezic et al. 2016)
+
+	- Visualization: Ch 1.6
+	- Intro to Probability: Ch 3
+	- Bayesian Inference: Ch 5
+
+## Topic Specific Readings
+
+### Model Fitting
+
+- ["Data analysis recipes: Fitting a model to data"](https://arxiv.org/abs/1008.4686) (Hogg et al. 2010). "We go through the many considerations involved in fitting a model to data, using as an example the fit of a straight line to a set of points in a two-dimensional plane."
+
+- ["Data Analysis Recipes: Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) (Hogg and Foreman-Mackey 2018) "In this primarily pedagogical contribution, we give a brief overview of the most basic MCMC method and some practical advice for the use of MCMC in real inference problems."
+
+- ["Data analysis recipes: Probability calculus for inference"](https://arxiv.org/abs/1205.4446) (Hogg 2012) "...I review the rules by which probability distribution functions can (and cannot) be combined. I connect these rules to the operations performed in probabilistic data analysis...The applications of probability calculus in constructing likelihoods, marginalized likelihoods, posterior probabilities, and posterior predictions are all discussed."
+
+- ["Bayesian Methods for Hackers"](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Cameron Davidson-Pilon) "An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view."
+
+### Periodograms
+
+- ["Understanding the Lomb-Scargle Periodogram"](https://arxiv.org/abs/1703.09824) (VanderPlas 2017) "This paper presents a conceptual introduction to the Lomb-Scargle periodogram and important practical considerations for its use."
+
+### Gaia Variable Star References
+
+- ["Gaia Data Release 1. The Cepheid and RR Lyrae star pipeline and its application to the south ecliptic pole region"](https://ui.adsabs.harvard.edu/abs/2016A%26A...595A.133C/abstract)
+
+- ["Gaia Data Release 2. Specific characterisation and validation of all-sky Cepheids and RR Lyrae stars"](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..60C/abstract)
+
+- ["Gaia Data Release 2. Summary of the variability processing and analysis results"](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..30H/abstract)
+
+## Other Readings
+
+### Blogs/Online Material of Interest
+
+-  ["Warning Signs in Experimental Design and Interpretation"](http://norvig.com/experiment-design.html) (P. Norvig). Enumerates many of the pitfalls in hypothesis testing, on correlation vs causation, reproducibility, and bias. Good reference set of statistics book at the end of the blog.
+
+### Books
+
+- ["The Visual Display of Quantitative Information"](https://www.edwardtufte.com/tufte/books_vdqi) (E. Tufte). Called *"The century's best book on statistical graphics"* this the go-to reference for understanding the core principles of information display.
+
+## Packages and Code
+
+- ["`astroquery`: An Astronomical Web-Querying Package in Python"](https://arxiv.org/abs/1901.04520) (A. Ginsburg et al.). Main Python-based query tool for (remote) astronomical databases.
+
+- ["The Astropy Project: Building an inclusive, open-science project and status of the v2.0 core package"](https://arxiv.org/abs/1801.02634) Suite of astronomical Python packages.
+
+- ["Quick Guide to Overleaf and LaTeX"](https://www.overleaf.com/learn)
+
+- ["matplotlib Quick Start Guide"](https://matplotlib.org/stable/users/explain/quick_start.html) Short tutorial provides an overview of the basic plotting utilities we will be using.
