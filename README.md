@@ -3,7 +3,7 @@
 [![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml)
 [![Run rspec tests](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml/badge.svg)](https://github.com/ucb-datalab/ucb-datalab.github.io/actions/workflows/rspec.yml)
 
-Based on a template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
+Based on a template for UC Berkeley class websites.
 
 ## Installation
 
@@ -42,7 +42,7 @@ Search throughout the repository for TODO items called `TODO(setup)` and complet
 
 ## Updating Material
 
-Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
+Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](https://docs.google.com/spreadsheets/d/1pL92lUnvS_BPTLwlN3l0XjLInFxI9Inaiv5IavSHxXk/edit?usp=sharing). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
 
 <!-- ## Deployment
 
