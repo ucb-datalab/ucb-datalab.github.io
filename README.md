@@ -44,7 +44,7 @@ Search throughout the repository for TODO items called `TODO(setup)` and complet
 
 Import your course schedule as `schedule.csv` and run the script `setup_schedule.py`. Make sure your imported schedule follows the same format as the [template](https://docs.google.com/spreadsheets/d/1pL92lUnvS_BPTLwlN3l0XjLInFxI9Inaiv5IavSHxXk/edit?usp=sharing). The script will setup the schedule on the home page and ensure links are released on the provided schedule.
 
-<!-- TODO: Need to add lab links to setup_scedule.py,  -->
+<!-- TODO: Need to add lab links to setup_scedule.py, possibly use the dynamic calendar, migrate labs to the website instead of the PDFs  -->
 
 ## License
 
