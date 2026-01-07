@@ -291,5 +291,4 @@ exclude:
   - calendar_dynamic.md
   - announcements.md
   - docs/
-  - resources/gaia.md
   - resources/savio.md
