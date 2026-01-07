@@ -18,23 +18,28 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
 schedule:
   - name: Monday
     events:
-      # - name: Instructor Office Hours
-      #   start: 12:30 PM
-      #   end: 2:00 PM
-      #   location: 271 Soda
+      - name: TA Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: 355 Campbell Hall
   - name: Tuesday
     events:
       - name: Lecture
         start: 2:00 PM
         end: 3:30 PM
-        location: 131 Campbell
-      # - name: Office Hours
-      #   start: 12:30 PM
-      #   end: 2:00 PM
-      #   location: 271 Soda
+        location: 131 Campbell Hall
+      - name: Instructor Office Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: TBD Campbell Hall
+      - name: TA Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: 131 Campbell Hall
   - name: Wednesday
     events:
       # - name: TA Office Hours
@@ -53,8 +58,8 @@ schedule:
       #   location: 271 Soda
   - name: Friday
     events:
-      # - name: Office Hours
-      #   start: 12:30 PM
-      #   end: 2:00 PM
-      #   location: 271 Soda
+      - name: TA Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: 131 Campbell Hall
 ---

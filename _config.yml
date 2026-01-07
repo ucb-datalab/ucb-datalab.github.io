@@ -292,3 +292,4 @@ exclude:
   - announcements.md
   - docs/
   - resources/savio.md
+  - _announcements/week-0.md

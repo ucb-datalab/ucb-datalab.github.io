@@ -23,6 +23,7 @@ skipped_rules = []
 excluded_elements = [
   '[data-a11y-errors="true"]'
 ]
+test_dark = false
 
 # We must call this to ensure the build it up-to-date.
 build_jekyll_site!
@@ -57,13 +58,15 @@ ALL_PAGES.each do |path|
       include_context 'a11y tests'
     end
 
-    # context 'when dark mode' do
-    #   before do
-    #     visit(path)
-    #     page.execute_script('jtd.setTheme("dark")')
-    #   end
+    if test_dark
+      context 'when dark mode' do
+        before do
+          visit(path)
+          page.execute_script('jtd.setTheme("dark")')
+        end
 
-    #   include_context 'a11y tests'
-    # end
+        include_context 'a11y tests'
+      end
+    end
   end
 end
