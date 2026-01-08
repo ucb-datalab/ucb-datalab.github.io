@@ -8,7 +8,7 @@ nav_order: 1
 published: true
 ---
 
-# Astronomy Data Science Lab
+# ASTRON 128: Astronomy Data Science Lab
 
 *Spring 2026*
 
