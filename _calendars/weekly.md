@@ -35,11 +35,11 @@ schedule:
       - name: Instructor Office Hours
         start: 5:00 PM
         end: 6:00 PM
-        location: TBD Campbell Hall
+        location: 355 Campbell Hall
       - name: TA Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 131 Campbell Hall
+        location: 355 Campbell Hall
   - name: Wednesday
     events:
       # - name: TA Office Hours
@@ -61,5 +61,5 @@ schedule:
       - name: TA Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: 131 Campbell Hall
+        location: 355 Campbell Hall
 ---
