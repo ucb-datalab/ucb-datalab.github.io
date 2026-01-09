@@ -31,11 +31,13 @@
     const toggleSchemeBtn = document.querySelector('.js-toggle-dark-mode');
     const unsetColorScheme = document.querySelector('.js-unset-color-scheme');
     
+    // 1. CAPTURE LOGO ELEMENTS (NEW)
     const logoDiv = document.querySelector('.site-logo');
     const logoUrlLight = "{{ site.logo | relative_url }}";
     // If logo_dark isn't defined, fallback to the light one to prevent errors
     const logoUrlDark = "{{ site.logo_dark | default: site.logo | relative_url }}";
 
+    // 2. HELPER FUNCTION TO SWAP LOGO (NEW)
     function setLogo(theme) {
       if (!logoDiv) return;
       if (theme === 'dark') {
@@ -49,31 +51,31 @@
     if (window.matchMedia && !localStorage['jtd-theme']) {
       if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         jtd.setTheme('dark');
-        setLogo('dark');
+        setLogo('dark'); // <--- NEW
         toggleSchemeBtn.textContent = '🔆 Light Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
       } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
         jtd.setTheme('light');
-        setLogo('light');
+        setLogo('light'); // <--- NEW
         toggleSchemeBtn.textContent = '🌙 Dark Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
       }
     } else if (localStorage['jtd-theme']) {
       jtd.setTheme(localStorage['jtd-theme']);
-      setLogo(localStorage['jtd-theme']);
+      setLogo(localStorage['jtd-theme']); // <--- NEW
     }
 
     jtd.addEvent(toggleSchemeBtn, 'click', function() {
       if (jtd.getTheme() === 'dark') {
         localStorage['jtd-theme'] = 'light';
         jtd.setTheme('light');
-        setLogo('light');
+        setLogo('light'); // <--- NEW
         toggleSchemeBtn.textContent = '🌙 Dark Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
       } else {
         jtd.setTheme('dark');
         localStorage['jtd-theme'] = 'dark';
-        setLogo('dark');
+        setLogo('dark'); // <--- NEW
         toggleSchemeBtn.textContent = '🔆 Light Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
       }
@@ -86,14 +88,14 @@
       if (window.matchMedia) {
         if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
           jtd.setTheme('dark');
-          setLogo('dark');
+          setLogo('dark'); // <--- NEW
         } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
           jtd.setTheme('light');
-          setLogo('light');
+          setLogo('light'); // <--- NEW
         }
       } else {
         jtd.setTheme('default');
-        setLogo('default');
+        setLogo('default'); // <--- NEW
       }
     });
   });
