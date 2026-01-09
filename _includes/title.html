@@ -1,0 +1,9 @@
+{% if site.logo %}
+  <div class="site-logo" 
+       role="img" 
+       aria-label="{{ site.title }}" 
+       style="background-image: url('{{ logo_url | relative_url }}');">
+  </div>
+{% else %}
+  {{ site.title }}
+{% endif %}

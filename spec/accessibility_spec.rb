@@ -23,7 +23,7 @@ skipped_rules = []
 excluded_elements = [
   '[data-a11y-errors="true"]'
 ]
-test_dark = false
+test_dark = true
 
 # We must call this to ensure the build it up-to-date.
 build_jekyll_site!

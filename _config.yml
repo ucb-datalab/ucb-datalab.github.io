@@ -39,7 +39,8 @@ bcourses_course_id: 1551182 # Same as above, but for bCourses. Leave blank if no
 ed_course_id: 90464 # Again, same as above.
 sememster: sp26 # set for the current seemester
 # TODO(template): We need to set this up.
-logo: '/assets/images/logo-2.png'
+logo: '/assets/images/logo-default.png'
+logo_dark: '/assets/images/logo-dark.png'
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: astron
@@ -232,7 +233,7 @@ theme: just-the-docs
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-show_color_scheme_toggle: false
+show_color_scheme_toggle: true
 
 ## Footer Content.
 # You should probably not change these, but may add to footer_content if necessary.
