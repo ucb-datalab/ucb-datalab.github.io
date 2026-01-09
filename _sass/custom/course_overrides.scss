@@ -4,3 +4,55 @@
   background-color: #9C3848 !important;
   color: white !important;
 }
+
+.label {
+    border-radius: $border-radius;
+    margin-left: 0;
+    user-select: none;
+
+    &.label-lab0 {
+      background-color: #D53434;
+      color: white;
+    }
+    &.label-lab0-outline {
+      background-color: transparent;
+      color: #D53434;
+      box-shadow: inset 0 0 0 2px #D53434;
+    }
+
+    &.label-lab1 {
+      background-color: #018943;
+      color: white;
+    }
+    &.label-lab1-outline {
+      background-color: transparent;
+      color: #018943;
+      box-shadow: inset 0 0 0 2px #018943;
+    }
+
+    &.label-lab2 {
+      background-color: #E7115E;
+      color: white;
+    }
+    &.label-lab2-outline {
+      background-color: transparent;
+      color: #E7115E;
+      box-shadow: inset 0 0 0 2px #E7115E;
+    }
+
+    &.label-lab3 {
+      background-color: #8236C7;
+      color: white;
+    }
+    &.label-lab3-outline {
+      background-color: transparent;
+      color: #8236C7;
+      box-shadow: inset 0 0 0 2px #8236C7;
+    }
+
+    &.label-break {
+      background-color: #5c5962;
+      color: white;
+    }
+
+}

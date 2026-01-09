@@ -233,7 +233,7 @@ theme: just-the-docs
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-show_color_scheme_toggle: true
+show_color_scheme_toggle: false
 
 ## Footer Content.
 # You should probably not change these, but may add to footer_content if necessary.
