@@ -116,7 +116,8 @@ google_calendar:
       text_color: '000000'
       class: cal-tutoring
       icon: fa-school
-site.ga_tracking : 'G-77C7RSZ8WH'
+
+ga_tracking : 'G-77C7RSZ8WH'
 
 # Collections for website data
 collections:
