@@ -31,13 +31,11 @@
     const toggleSchemeBtn = document.querySelector('.js-toggle-dark-mode');
     const unsetColorScheme = document.querySelector('.js-unset-color-scheme');
     
-    // 1. CAPTURE LOGO ELEMENTS (NEW)
     const logoDiv = document.querySelector('.site-logo');
     const logoUrlLight = "{{ site.logo | relative_url }}";
     // If logo_dark isn't defined, fallback to the light one to prevent errors
     const logoUrlDark = "{{ site.logo_dark | default: site.logo | relative_url }}";
 
-    // 2. HELPER FUNCTION TO SWAP LOGO (NEW)
     function setLogo(theme) {
       if (!logoDiv) return;
       if (theme === 'dark') {

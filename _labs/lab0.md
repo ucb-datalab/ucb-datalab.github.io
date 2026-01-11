@@ -7,14 +7,3 @@ date: 2026-01-16
 time: 9:00
 gradescope_assignment_id:
 ---
-
-1. TOC
-{:toc}
-
-## Q1: Sample Question
-
-{% include questions/sample_question.md %}
-
-## Q2: Another Question
-
-{% include questions/another_question.md %}

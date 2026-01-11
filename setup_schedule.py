@@ -45,11 +45,12 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--filename', '-f', type=str, default='schedule.csv')
-    parser.add_argument('--github_link', '-l', type=str, default='https://github.com/ucb-datalab/course_materials_sp2026/tree/main/lectures')
-    
+    parser.add_argument('--lecture_link', '-l', type=str, default='https://github.com/ucb-datalab/course_materials_sp2026/tree/main/lectures')
+    parser.add_argument('--lab_link', '-p', type=str, default='https://github.com/ucb-datalab/course_materials_sp2026/tree/main/labs')
+
     args = parser.parse_args()
     year = current_year = date.today().year
-    sched = pd.read_csv(args.filename, header=None, names=['lecture', 'date', 'topic', 'notes'], keep_default_na=False)
+    sched = pd.read_csv(args.filename, header=None, names=['lecture', 'date', 'topic', 'notes', 'links'], keep_default_na=False)
     sched['date'] = [f'{year}-'+s['date'].replace('/', '-').replace(" ", '') for _, s in sched.iterrows()]
     sched['week_index'] = pd.to_datetime(sched['date']).dt.isocalendar().week
     sched['week_index'] -= sched['week_index'].min()
