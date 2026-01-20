@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Feb 17
-: {% lec 9 %}
+: **Lecture 9**{: .label .label-lecture } {% lec 9 %}
 
 Feb 19
-: {% lec 10 %}
+: **Lecture 10**{: .label .label-lecture } {% lec 10 %}

@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Jan 20
-: {% lec 1 %}
+: **Lecture 1**{: .label .label-lecture } {% lec 1 %}
 
 Jan 22
-: {% lec 2 %}
+: **Lecture 2**{: .label .label-lecture } {% lec 2 %}

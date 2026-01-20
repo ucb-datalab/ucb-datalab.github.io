@@ -12,6 +12,9 @@ def generate_lectures(sched, link):
         with open(f'_lectures/{i:02d}.md', '+w') as f:
             f.write(text)
 
+def generate_labs(sched, link):
+    pass
+
 def generate_modules(sched):
     weeks = {index: group for index, group in sched.groupby('week_index')}
 
@@ -21,7 +24,7 @@ def generate_modules(sched):
         for _, day in module.iterrows():
             content += f"\n{pd.to_datetime(day['date']).strftime('%b %-d')}\n"
             if day['lecture']:
-                content += f": {{% lec {day['lecture']} %}}\n"
+                content += f": **Lecture {day['lecture']}**{{: .label .label-lecture }} {{% lec {day['lecture']} %}}\n"
             notes = day['notes'].lower().split(',')
             for note in notes:
                 if note == '':
@@ -55,5 +58,6 @@ if __name__ == "__main__":
     sched['week_index'] = pd.to_datetime(sched['date']).dt.isocalendar().week
     sched['week_index'] -= sched['week_index'].min()
 
-    generate_lectures(sched, args.github_link)
+    generate_lectures(sched, args.lecture_link)
+    generate_labs(sched, args.lab_link)
     generate_modules(sched)

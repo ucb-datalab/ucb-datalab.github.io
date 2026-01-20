@@ -203,6 +203,7 @@ If you have a disability, or think you may have a disability, you can work with 
 
 If you are on the waiting list, you must still do all coursework and complete labs and homework by the deadlines. We will not be offering extensions if you are admitted into the course later. So it is your responsibility to stay up to date on the assignments. You are welcome to attend lectures while you are on the waiting list. Rooms may feel a little crowded in the first week.
 
+{: .important }
 Unfortunately, doing all the work is **not** a guarantee of enrollment. You will only be enrolled if there is space in the course. Enrollment will proceed by CalCentral.
 
 ## [Syllabus PDF](https://github.com/ucb-datalab/course_materials_sp2026/blob/main/Astro_128_256_syllabus_Fall2026.pdf)

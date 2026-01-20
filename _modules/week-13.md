@@ -6,8 +6,8 @@ Apr 13
 : **lab 2 due**{: .label .label-lab2 }
 
 Apr 14
-: {% lec 23 %}
+: **Lecture 23**{: .label .label-lecture } {% lec 23 %}
 : {% lab 3 %}
 
 Apr 16
-: {% lec 24 %}
+: **Lecture 24**{: .label .label-lecture } {% lec 24 %}
