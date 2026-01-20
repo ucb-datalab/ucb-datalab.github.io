@@ -35,6 +35,9 @@
     const logoUrlLight = "{{ site.logo | relative_url }}";
     const logoUrlDark = "{{ site.logo_dark | default: site.logo | relative_url }}";
 
+    // 1. Capture the setting from _config.yml
+    const configTheme = "{{ site.color_scheme | default: 'light' }}";
+
     function setLogo(theme) {
       if (!logoDiv) return;
       if (theme === 'dark') {
@@ -44,7 +47,6 @@
       }
     }
 
-    // NEW: Helper to update button text so we don't repeat code
     function updateButtonText(theme) {
       if (theme === 'dark') {
         toggleSchemeBtn.textContent = '🔆 Light Mode';
@@ -55,27 +57,21 @@
       }
     }
 
-    // 1. Check Browser Preference (and no saved preference)
-    if (window.matchMedia && !localStorage['jtd-theme']) {
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        jtd.setTheme('dark');
-        setLogo('dark');
-        updateButtonText('dark');
-      } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-        jtd.setTheme('light');
-        setLogo('light');
-        updateButtonText('light');
-      }
-    
-    // 2. Check Saved Preference (FIXED THIS SECTION)
-    } else if (localStorage['jtd-theme']) {
+    // 2. LOGIC: Check LocalStorage first. If empty, use _config.yml
+    if (localStorage['jtd-theme']) {
+      // User has visited before and set a preference
       const savedTheme = localStorage['jtd-theme'];
       jtd.setTheme(savedTheme);
       setLogo(savedTheme);
-      updateButtonText(savedTheme); // <--- This was missing before!
+      updateButtonText(savedTheme);
+    } else {
+      // New visitor: Ignore OS settings, force the Config default
+      jtd.setTheme(configTheme);
+      setLogo(configTheme);
+      updateButtonText(configTheme);
     }
 
-    // 3. Handle Button Clicks
+    // 3. Handle Toggle Click
     jtd.addEvent(toggleSchemeBtn, 'click', function() {
       if (jtd.getTheme() === 'dark') {
         localStorage['jtd-theme'] = 'light';
@@ -93,22 +89,11 @@
     // 4. Handle Reset Button
     jtd.addEvent(unsetColorScheme, 'click', function() {
       delete localStorage['jtd-theme'];
-
-      if (window.matchMedia) {
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          jtd.setTheme('dark');
-          setLogo('dark');
-          updateButtonText('dark');
-        } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-          jtd.setTheme('light');
-          setLogo('light');
-          updateButtonText('light');
-        }
-      } else {
-        jtd.setTheme('default');
-        setLogo('default');
-        updateButtonText('default'); 
-      }
+      
+      // When resetting, go back to the Config default
+      jtd.setTheme(configTheme);
+      setLogo(configTheme);
+      updateButtonText(configTheme);
     });
   });
 </script>
