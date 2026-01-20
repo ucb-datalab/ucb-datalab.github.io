@@ -205,7 +205,7 @@ defaults:
 ######################################################################
 # TODO(template): We should clean these up + standardize...
 # TODO(setup): You may want to add additional
-callouts_level: quiet # or loud
+# callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
@@ -235,7 +235,7 @@ theme: just-the-docs
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-show_color_scheme_toggle: false
+show_color_scheme_toggle: true
 
 ## Footer Content.
 # You should probably not change these, but may add to footer_content if necessary.

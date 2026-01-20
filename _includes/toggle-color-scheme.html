@@ -33,7 +33,6 @@
     
     const logoDiv = document.querySelector('.site-logo');
     const logoUrlLight = "{{ site.logo | relative_url }}";
-    // If logo_dark isn't defined, fallback to the light one to prevent errors
     const logoUrlDark = "{{ site.logo_dark | default: site.logo | relative_url }}";
 
     function setLogo(theme) {
@@ -45,55 +44,70 @@
       }
     }
 
-    // If the browser suggests a color scheme, and user hasn't saved/switch one yet..
-    if (window.matchMedia && !localStorage['jtd-theme']) {
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        jtd.setTheme('dark');
-        setLogo('dark'); // <--- NEW
+    // NEW: Helper to update button text so we don't repeat code
+    function updateButtonText(theme) {
+      if (theme === 'dark') {
         toggleSchemeBtn.textContent = '🔆 Light Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
-      } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-        jtd.setTheme('light');
-        setLogo('light'); // <--- NEW
+      } else {
         toggleSchemeBtn.textContent = '🌙 Dark Mode';
         toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
       }
-    } else if (localStorage['jtd-theme']) {
-      jtd.setTheme(localStorage['jtd-theme']);
-      setLogo(localStorage['jtd-theme']); // <--- NEW
     }
 
+    // 1. Check Browser Preference (and no saved preference)
+    if (window.matchMedia && !localStorage['jtd-theme']) {
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        jtd.setTheme('dark');
+        setLogo('dark');
+        updateButtonText('dark');
+      } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+        jtd.setTheme('light');
+        setLogo('light');
+        updateButtonText('light');
+      }
+    
+    // 2. Check Saved Preference (FIXED THIS SECTION)
+    } else if (localStorage['jtd-theme']) {
+      const savedTheme = localStorage['jtd-theme'];
+      jtd.setTheme(savedTheme);
+      setLogo(savedTheme);
+      updateButtonText(savedTheme); // <--- This was missing before!
+    }
+
+    // 3. Handle Button Clicks
     jtd.addEvent(toggleSchemeBtn, 'click', function() {
       if (jtd.getTheme() === 'dark') {
         localStorage['jtd-theme'] = 'light';
         jtd.setTheme('light');
-        setLogo('light'); // <--- NEW
-        toggleSchemeBtn.textContent = '🌙 Dark Mode';
-        toggleSchemeBtn.ariaLabel = 'Switch to Dark Mode';
+        setLogo('light');
+        updateButtonText('light');
       } else {
         jtd.setTheme('dark');
         localStorage['jtd-theme'] = 'dark';
-        setLogo('dark'); // <--- NEW
-        toggleSchemeBtn.textContent = '🔆 Light Mode';
-        toggleSchemeBtn.ariaLabel = 'Switch to Light Mode';
+        setLogo('dark');
+        updateButtonText('dark');
       }
     });
 
-    // Add a way to unset the saved theme.
+    // 4. Handle Reset Button
     jtd.addEvent(unsetColorScheme, 'click', function() {
       delete localStorage['jtd-theme'];
 
       if (window.matchMedia) {
         if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
           jtd.setTheme('dark');
-          setLogo('dark'); // <--- NEW
+          setLogo('dark');
+          updateButtonText('dark');
         } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
           jtd.setTheme('light');
-          setLogo('light'); // <--- NEW
+          setLogo('light');
+          updateButtonText('light');
         }
       } else {
         jtd.setTheme('default');
-        setLogo('default'); // <--- NEW
+        setLogo('default');
+        updateButtonText('default'); 
       }
     });
   });

@@ -11,48 +11,48 @@
     user-select: none;
 
     &.label-lab0 {
-      background-color: #D53434;
-      color: white;
+      background-color: $lab0;
+      color: $body-background-color;
     }
     &.label-lab0-outline {
       background-color: transparent;
-      color: #D53434;
-      box-shadow: inset 0 0 0 2px #D53434;
+      color: $lab0;
+      box-shadow: inset 0 0 0 2px $lab0;
     }
 
     &.label-lab1 {
-      background-color: #018943;
-      color: white;
+      background-color: $lab1;
+      color: $body-background-color;
     }
     &.label-lab1-outline {
       background-color: transparent;
-      color: #018943;
-      box-shadow: inset 0 0 0 2px #018943;
+      color:  $lab1;
+      box-shadow: inset 0 0 0 2px  $lab1;
     }
 
     &.label-lab2 {
-      background-color: #E7115E;
-      color: white;
+      background-color: $lab2;
+      color: $body-background-color;
     }
     &.label-lab2-outline {
       background-color: transparent;
-      color: #E7115E;
-      box-shadow: inset 0 0 0 2px #E7115E;
+      color: $lab2;
+      box-shadow: inset 0 0 0 2px $lab2;
     }
 
     &.label-lab3 {
-      background-color: #8236C7;
-      color: white;
+      background-color: $lab3;
+      color: $body-background-color;
     }
     &.label-lab3-outline {
       background-color: transparent;
-      color: #8236C7;
-      box-shadow: inset 0 0 0 2px #8236C7;
+      color: $lab3;
+      box-shadow: inset 0 0 0 2px $lab3;
     }
 
     &.label-break {
-      background-color: #5c5962;
-      color: white;
+      background-color: $break;
+      color: $body-background-color;
     }
 
 }
