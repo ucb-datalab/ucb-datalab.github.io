@@ -63,6 +63,7 @@ aux_links:
     - 'https://www.gradescope.com/courses/1207641'
   GitHub:
     - 'https://github.com/ucb-datalab/course_materials_sp2026'
+aux_links_new_tab: true
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
