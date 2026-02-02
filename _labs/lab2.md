@@ -1,7 +1,7 @@
 ---
 title: "Modeling Stellar Spectra"
 url: labs/lab2/
-external_url: https://github.com/ucb-datalab/course_materials_sp2026/blob/main/labs/AY128_Lab2_apogee_spectra_spring2026.pdf
+external_url: https://github.com/ucb-datalab/course_materials_sp2026/blob/main/labs/lab_2/AY128_Lab2_apogee_spectra_spring2026.pdf
 due: "2024-06-13 11:59:59 PM PST"
 date: 2026-03-05
 time: 9:00
