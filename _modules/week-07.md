@@ -8,5 +8,7 @@ Mar 3
 
 Mar 5
 : **Lecture 14**{: .label .label-lecture } {% lec 14 %}
-: **lab 1 due**{: .label .label-lab1 }
 : {% lab 2 %}
+
+Mar 8
+: **lab 1 due**{: .label .label-lab1 }

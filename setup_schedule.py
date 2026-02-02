@@ -58,6 +58,6 @@ if __name__ == "__main__":
     sched['week_index'] = pd.to_datetime(sched['date']).dt.isocalendar().week
     sched['week_index'] -= sched['week_index'].min()
 
-    generate_lectures(sched, args.lecture_link)
+    # generate_lectures(sched, args.lecture_link)
     generate_labs(sched, args.lab_link)
     generate_modules(sched)

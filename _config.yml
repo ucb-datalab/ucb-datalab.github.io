@@ -63,6 +63,8 @@ aux_links:
     - 'https://www.gradescope.com/courses/1207641'
   GitHub:
     - 'https://github.com/ucb-datalab/course_materials_sp2026'
+  bCourses:
+    - 'https://bcourses.berkeley.edu/courses/1551182'
 aux_links_new_tab: true
 
 # TODO(template): These need to be documented
