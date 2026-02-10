@@ -445,13 +445,12 @@ data_release='Gaia DR3'
 retrieval_type='EPOCH_PHOTOMETRY' # We ask for EPOCH_PHOTOMETRY to get the time series data
 data_structure='INDIVIDUAL'
 linking_parameter='SOURCE_ID'
-file_format='csv'
+file_format='xml' # Defaulting to the 'votable' format in astroquery
 datalink = Gaia.load_data(ids=[source_id],
                           data_release=data_release, 
                           retrieval_type=retrieval_type, 
                           data_structure=data_structure,
-                          linking_parameter=linking_parameter,
-                          format=file_format)
+                          linking_parameter=linking_parameter)
 
 # Here we check the names of the datalink files we have accessed.
 print(f'The following Datalink products have been downloaded:')
@@ -460,7 +459,8 @@ for dl_key in datalink.keys():
 
 # 3. Extract and combine the timeseries data for the desired source.
 source_filename = f'{retrieval_type}-{data_release} {source_id}.{file_format}'
-data = table.vstack(datalink[source_filename])
+data = table.vstack([dl.to_table() for dl in datalink[source_filename]])
+# For other file_format parameters (e.g. 'csv', 'fits'), the above line can be simplified to 'data = table.vstack(datalink[source_filename])'
 
 # 4. Plotting the raw time series
 plt.figure(figsize=(10,4))
