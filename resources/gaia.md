@@ -445,7 +445,7 @@ data_release='Gaia DR3'
 retrieval_type='EPOCH_PHOTOMETRY' # We ask for EPOCH_PHOTOMETRY to get the time series data
 data_structure='INDIVIDUAL'
 linking_parameter='SOURCE_ID'
-file_format='fits'
+file_format='csv'
 datalink = Gaia.load_data(ids=[source_id],
                           data_release=data_release, 
                           retrieval_type=retrieval_type, 
