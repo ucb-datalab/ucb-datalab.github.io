@@ -8,73 +8,237 @@ parent: Resources
 nav_order: 2
 ---
 
-# Style Guide
+# Using the Savio Computing Cluster
 
-The purpose of this page is to show the reasonable default for various stylings.
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
-## Labels
+# Introduction to the Savio Computing Cluster 
 
-Labels are used on many course semester schedules/home pages to draw attention to important calendar events.
+## What is Savio?
 
-**Lecture**{: .label .label-lecture }
-**Lecture Participation**{: .label .label-lecture-participation }
-**Vitamin**{: .label .label-vitamin }
-**Reading**{: .label .label-reading }
-**Guide**{: .label .label-reading }
-**Course Notes**{: .label .label-reading }
+Savio is one of the the primary HPC cluster for UC Berkeley researchers and students. Think of it as a massive network of powerful computers (nodes) wired together. Instead of a screen and keyboard, you interact with these machines remotely over the internet. For this class, we will primarily utilize nodes equipped with GPUs designed specifically for machine learning and image processing for Lab 3, though feel free to try using it for Lab 2 as well! Navigating and using a cluster can be challenging and frustrating at times. The [documentation](https://docs-research-it.berkeley.edu/services/high-performance-computing/overview/) for Savio and the chatbot they have on their site is very thorough and helpful for most of the issues you may run into.
 
-**Section**{: .label .label-section }
-**Lab**{: .label .label-lab }
-**Discussion**{: .label .label-discussion }
+## Why Use a Cluster?
 
-**Project**{: .label .label-project }
-**Homework**{: .label .label-homework }
-**Homework Released**{: .label .label-homework-released }
-**Homework Due**{: .label .label-homework }
+When your data is small, your laptop or Datahub is perfectly sufficient. You need a cluster like Savio when:
 
-**Exam**{: .label .label-exam }
-**Exam Prep**{: .label .label-exam-prep }
-**Quiz**{: .label .label-quiz }
+* **Your data is too big for memory:** Savio nodes have massive memory reserves (up to 1.5 Terabytes on certain nodes), preventing crashes when loading large datasets like our dataset for Lab 3.
+* **Your code takes days to run:** Training a Convolutional Neural Network on a standard CPU can take hours or days. Savio's GPUs can reduce that same training process to hours or minutes.
+* **You need massive parallelization:** Savio allows you to use dozens of CPU cores or GPUs at once, combining the compute power of multiple nodes to enable extremely parallelizable jobs.
 
-Here are a few examples of how to use labels in your markdown:
+# Setting Up Accounts
 
-```
-**Section**{: .label .label-section }
-**Discussion**{: .label .label-discussion }
-**Lecture**{: .label .label-lecture }
-```
+Before you can access the Savio cluster, you must request an account and configure your authentication credentials. 
 
-`**Section**` controls the text of the label. `{: .label }` designates that it should be a label. `{: .label-section }` controls the color of the label as defined in `_sass/custom/custom.scss`. There is nothing technically preventing you from doing something like `**Section**{: .label .label-discussion }`. We recommend you take advantage of this if your course uses different wording for a basic element, for example above `Reading`, `Guide`, and `Course Notes` all use the same label: `{: .label .label-reading }`.
+{: .important }
+Please complete these steps by **End of Day, March 31st**, so you are ready for the GPU hardware demo lecture on **April 2nd**.
 
-The styling of each label is defined in `_sass/custom/custom.scss`. If you would like to change any of the default colors, please place your updates in `_sass/custom/course_overrides.scss`. You don't need to delete the original definitions in  `_sass/custom/custom.scss`; the course overrides will take precedent.
+## 1. Request Project Access via MyBRC
 
-## Buttons
+To get an account, you need to request access to our course's instructional allocation. 
 
-We also provide buttons that you can place at the top of your course's page. These can also be found in `_sass/custom/custom.scss`. Again, if you want to change these, please place your updates in `_sass/custom/course_overrides.scss` which will take precedent over the original definitons.
+{: .note }
+If you already have a MyBRC account from another class or research group, you can skip the agreement/quiz and go straight to joining the project.
 
-The markdown for a button is like so:
+* **Log in:** Navigate to the [MyBRC User Portal](https://mybrc.brc.berkeley.edu/) and log in with your CalNet ID.
+* **Sign the agreement:** Review and sign the cluster user access agreement.
+* **Take the quiz:** You will be prompted to complete a mini-quiz to confirm you understand the basic cluster rules. You can find the information in the [Savio User Guide](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/), but as a shortcut: **the answer is 24**.
+* **Join the class project:** * Click on **"Join"** where it says *Create or join a project*.
+    * Search for **`ic_astro128`** under Project Name.
+    * Click **"Join"** on the project. Under the reason field, enter your information in this format: `"Last Name, First Name (SID)"`.
+* **Wait for approval:** Your request will be manually approved by course staff. Getting approval might take a day or two, so please submit your request by **End of Day, March 31st**. 
+* **Note your username:** Once approved, be sure to take note of your newly assigned BRC supercluster username!
 
-```
-[Gradescope](https://www.gradescope.com){: .btn .btn-gradescope }
-```
+For more background on the general account process, see the [Savio Getting an Account documentation](https://docs-research-it.berkeley.edu/services/high-performance-computing/getting-account/).
 
-[Gradescope](https://www.gradescope.com){: .btn .btn-gradescope }
-[Pensieve](https://www.pensieve.co){: .btn .btn-pensieve }
-[bCourses](https://bcourses.berkeley.edu/){: .btn .btn-bcourses }
+## 2. Link Your Account
 
-[DataHub](https://datahub.berkeley.edu/){: .btn .btn-datahub }
-[Zoom](https://zoom.us){: .btn .btn-zoom }
-[Lectures Playlist](https://www.youtube.com/){: .btn .btn-lectures}
-[EdStem](https://edstem.org/us/dashboard){: .btn .btn-ed }
+Once your access is approved, you will automatically receive an email from BRC support with the subject line *"Invitation to link your personal account with BRC HPC Cluster account"*. 
+* Follow the instructions in this email to link your CalNet ID to your new BRC cluster account.
+* If you do not see this email within a few hours of approval, be sure to check your Spam or Junk folder.
 
-[Textbook](https://inferentialthinking.com){: .btn .btn-textbook }
-[Office Hours](https://calendar.google.com){: .btn .btn-officehours }
-[Extensions](https://forms.gle/){: .btn .btn-extensions }
+## 3. Set Up Your One-Time Password (OTP)
 
-## Just the Docs UI Components
+While we will primarily use the web-based Open OnDemand portal (which uses standard CalNet Single Sign-On), you still need to set up a One-Time Password (OTP) to access the cluster via SSH. Savio requires a time-expiring password generated by an app on your phone to keep the system secure.
 
-Just the Docs additionally has [UI components](https://just-the-docs.com/docs/ui-components/) you can use out of the box. Not all elements may be [accessible]({% link docs/a11y.md %}) -- be sure to double check that all [GitHub Actions]({% link docs/continuous-integration.md %}) pass after a commit!
+* **Install the App:** Download **Google Authenticator** (or Authy) on your iOS or Android smartphone.
+* **Generate a Token:** On your computer browser, navigate to the [Non-LBL Token Management page](https://auth.brc.berkeley.edu/auth/realms/hpc/account/). Log in with your linked CalNet ID.
+* **Create the Token:** Click "Add an HPC Cluster/Linux Workstation token" and follow the on-screen instructions. You will be asked to create a **PIN** (remember this, you will need it often!).
 
-## Note on Colors
+{: .warning }
+**DO NOT FORGET YOUR PIN.**
 
-You may find that colors that are accessible for the light color scheme may not be accessible for the dark color scheme and vice versa. In that case, we recommend defining a variable, once in `_sass/color-schemes/light.scss` to be accessible for the light color scheme and once again in `_sass/color-schemes/dark.scss` to be accessible for the dark color scheme. See `$hw-rel` for an example.
+* **Scan the QR Code:** The page will display a QR code. Open Google Authenticator on your phone, scan the code, and verify that it starts generating 6-digit passwords.
+
+### How to use your OTP via SSH
+When logging into Savio via your terminal, you will be prompted for a `Password:`. 
+* Your password is your **PIN** followed *immediately* (no spaces) by the 6-digit **OTP** currently displayed in your app. 
+* For example, if your PIN is `1234` and your app shows `555666`, you would type: `1234555666`. Note that when typing passwords in the terminal, the characters will remain invisible.
+
+For detailed screenshots and troubleshooting on this step, visit the [Savio Setting Up One-Time Passwords guide](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/setting-otp/).
+
+# Logging In & Setting Up Your Environment
+
+For this class, our primary way to interact with Savio is through the **Open OnDemand** web portal. This provides a user-friendly graphical interface directly in your browser, allowing you to launch Jupyter Notebooks, VS Code, and terminal sessions without needing to configure SSH settings on your laptop.
+
+## 1. Log Into Open OnDemand
+
+* Navigate to the [Savio Open OnDemand Portal](https://ood.brc.berkeley.edu/).
+* Log in using your standard CalNet ID and passphrase.
+
+## 2. Automated Environment Setup
+
+Next, we need to setup our environment on Savio so that our code will run as expected.
+
+* In the Open OnDemand top navigation bar, click **Clusters** > **Savio Shell Access**. This opens a terminal in your home directory (`~`).
+* Navigate to a directory where you want to store your work using `cd` and `mkdir`.
+* On the [course GitHub page](https://github.com/ucb-datalab/course_materials_sp2026/tree/main), follow the intructions to setup your Savio environment.
+* This script will take a minute or two to run as it downloads the course libraries. Once it completes without errors, your environment is ready.
+
+## 3. Launching Jupyter Server or VS Code
+
+With your environment built, you can now write and debug code using Open OnDemand's interactive apps.
+
+* In the top menu of Open OnDemand, click **Interactive Apps** and select either **Jupyter Server** or **VS Code Server**.
+* A form will appear. **You should select the Exploration Nodes** rather than the standard compute nodes. Fill in the form as follows:
+  * **Node Type / Partition:** Select the **Exploration node** option (do *not* select standard compute nodes for basic editing/debugging).
+  * **QoS:** Use the default interactive QoS.
+  * **Time:** Request the time you need (e.g., `4:00:00` for 4 hours). It is always better to request more time than you need to not get kicked off in the middle of a work session, but longer time requests may take longer to queue and start up.
+* Click **Launch**. Your request will be queued. Once a node is assigned, click **Connect to Jupyter** (or VS Code).
+
+{: .important }
+When opening a new notebook in Jupyter, make sure to select the **Python (AY128)** kernel from the launcher so you have access to all your installed packages!
+
+* On your first use of any of these interactive apps, it may not open your home directory initially. You must navigate to it first before creating and editing files.
+
+## Alternative: Command Line Access via SSH (Optional)
+
+If you prefer working entirely in the terminal, you can log directly into the Savio login nodes via SSH. 
+
+* Open your laptop's terminal (Terminal on Mac/Linux, PowerShell or WSL on Windows).
+* Run the following command, replacing `[your_username]` with your BRC username:
+  `ssh [your_username]@hpc.brc.berkeley.edu`
+* When prompted for your `Password:`, you must enter your **PIN** followed immediately by the 6-digit **OTP** from your Google Authenticator app (e.g., if your PIN is `1234` and your OTP is `555666`, type `1234555666`). Characters will not appear as you type.
+
+# Setting Up and Running Jobs
+
+Once you have written and tested your code on the exploration nodes, you are ready to run the heavy computations. To do this, you will submit a "batch job" to Savio's job scheduler, called Slurm.
+
+## 1. Preparing the Data
+
+* **Lab 3:** the required datasets are stored in the course's shared group directory: `/global/home/groups/ic_astro128/lab3/data/`. Because compute nodes cannot efficiently read from this shared directory simultaneously, you must copy the `.tar` and `.csv` files into your own home directory (`~`) and extract them before running your jobs. See the data download script we include in the [course GitHub Savio resources](https://github.com/ucb-datalab/course_materials_sp2026/tree/main/savio). Copy the script to your Lab 3 working directory and run it using `bash lab3_data_copy.sh`.
+
+* **Lab 2:** you must import your data using the OnDemand user interface under the *Files* page or use a different file upload method from one of the ones listed on the [Savio documentation](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/data/transferring-data/). We recommend using SFTP via Filezilla since the user interface is relatively straight forward to use with the documentation's instructions.
+
+## 2. Writing a Job Script
+
+A job script is a simple text file (usually ending in `.sh`) that tells the Slurm scheduler exactly what hardware resources you need and what commands to execute. 
+
+The top half of the script consists of `#SBATCH` directives. Even though they start with a `#` (which usually means a comment in bash), the Slurm scheduler reads these specific lines to configure your job. The bottom half contains the actual terminal commands you want the node to run.
+
+You can find downloadable versions of these scripts in our [GitHub Repository](https://github.com/ucb-datalab/course_materials_sp2026/tree/main/savio/job_scripts). You will find 2 different scripts: `cpu_job.sh` and `gpu_job.sh`. Each of these will use the respective hardware configurations.
+
+### Understanding the Slurm Variables
+
+Here is a breakdown of what each `#SBATCH` option does so you can customize your scripts for different assignments:
+
+* **`--job-name`**: A nickname for your job. This makes it easier to spot your job when you check the queue.
+* **`--account`**: The allocation being billed. For this class, it must always be **`ic_astro128`**.
+* **`--partition`**: The specific pool of computers you are requesting. 
+    * `savio2_1080ti`: Use this for GPU tasks.
+    * `savio2_htc` or `savio2`: Use this for CPU-only tasks.
+    * See the [documentation](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/hardware-config/#hardware-config) for other options.
+* **`--qos`**: Quality of Service. For our class allocation, always use **`savio_normal`**.
+* **`--nodes`**: The number of physical computers. For this class, leave this at **`1`**.
+* **`--ntasks` & `--cpus-per-task`**: How many CPU cores to allocate. If you are using a GPU, you must use the minimum number of CPUs stated by the [CPU:GPU ratio](https://docs-research-it.berkeley.edu/services/high-performance-computing/user-guide/hardware-config/#gpu-hardware) for the partition chosen. For a basic CPU job on a `htc` partition, `1` is fine. For a CPU job on normal partition like `savio3`, you can use the maximum number of cores for the node (e.g. `40`) since you will be billed for using the whole node anyways.
+* **`--gres=gpu:1`**: This is how you ask for a GPU! If you do not include this line on a GPU partition, your job will fail.
+* **`--time`**: The maximum Wall Clock limit (`HH:MM:SS`). **Do not request 72 hours if your code only takes 10 minutes.** Slurm prioritizes shorter jobs, so asking for less time means your job will start much faster! The average job for Lab 3 takes anywhere from 10 minutes to 1 hour depending on your code and chosen model parameters. However, if you do not provide a long enough clock limit, then your job will end prematurely and fail.
+* **`--output` & `--error`**: Tells Slurm where to save your print statements and crash logs. The `%j` automatically inserts your unique Job ID into the filename (e.g., `job_error_123456.err`). It is best not to change this.
+* **`--mail-type=ALL` & `--mail-user`**: Highly recommended! Slurm will automatically email you when your job begins, ends, or fails, so you don't have to constantly refresh the queue.
+
+### Understanding the Module System
+
+You might have noticed the line `module load cuda` in the GPU script. Savio has hundreds of software packages installed, from compilers and Python versions to specialized packages for material science, biology, chemistry, etc. If the cluster loaded all of them at once, different versions would conflict with each other. 
+
+To solve this, Savio uses a "module" system. You only load the specific software you need for your current task. 
+
+* **`module load <software>`**: Loads a specific package into your environment.
+* **`module list`**: Shows you what modules are currently active.
+* **`module avail`**: Lists every piece of software installed on Savio.
+
+{: .note }
+Because we are using `uv` to manage our own isolated Python environment, we do **not** need to run `module load python` or `module load ml/pytorch` like you might see in other Savio tutorials. `uv` handles all the Python packages for us! We only need `module load cuda` so that our JAX and PyTorch libraries know how to talk to the physical NVIDIA GPU hardware.
+
+## 3. Submitting and Monitoring Jobs
+
+Once you have saved your job script (for example, as `gpu_job.sh`), you are ready to send it to the cluster's Slurm scheduler. You will do this from the terminal (either via the Open OnDemand Shell or your SSH session). Navigate to your project's working directory and ensure your job script and all necessary files are there.
+
+### Submitting Your Job
+To submit your script to the queue, run the following command:
+
+```sbatch gpu_job.sh```
+
+If successful, the terminal will reply with a message like: `Submitted batch job 1234567`. 
+**Take note of this Job ID number!** You will use it to track your job.
+
+### Checking Job Status
+Your job might not start immediately. It will be placed in a queue until the requested hardware (like the 1080ti GPU) becomes available. To check on your job, use the `squeue` command:
+
+* **Check a specific job:** `squeue -j 1234567`
+* **Check all your active jobs:** `squeue -u your_brc_username`
+
+When you check the queue, look at the `ST` (State) column. You will typically see either `PD` (Pending - waiting for hardware) or `R` (Running). Alternatively, you can check the **Jobs**, then **Active Jobs** section of OnDemand to check out your jobs and their status.
+
+### Canceling a Job
+If you realize you made a typo in your Python code or requested the wrong partition, you can cancel your job at any time (whether it is pending or running):
+
+scancel 1234567
+
+### Viewing Your Results
+Because your job runs in the background on a remote compute node, it will not print anything directly to your terminal screen. Instead, Slurm saves all of your standard `print()` statements, warnings, and error messages into text files. 
+
+If you used the `#SBATCH` templates provided above, look in your directory for files named `job_output_1234567.out` and `job_error_1234567.err` (where the number matches your specific Job ID). You can open these files right in your Open OnDemand Jupyter Server or VS Code interface to review your results or just open them from the OnDemand **Files** page directly. The `*.err` files will be really helpful in debugging.
+
+# Tips, Tricks, and Best Practices
+
+Working on a supercomputer is a bit different from working on your personal laptop. Here are a few tips to save you time and keep your jobs running smoothly:
+
+## 1. Do Not Run Heavy Compute on the Login Nodes!
+When you first open a terminal in Open OnDemand or connect via SSH, you are placed on a "Login Node." These nodes are strictly for moving files, editing text, and submitting jobs. **Do not run your machine learning models or heavy data processing scripts directly in this terminal.** If you do, your process will be automatically killed by the system admins, and it slows down the cluster for everyone else. Always submit an intensive job via `sbatch`.
+
+## 2. Watch Your Storage Quota
+Your Savio home directory (`~`) has a strict storage limit of **50 Gigabytes**. 
+If you fill this up, your jobs will crash immediately with "Disk quota exceeded" errors, and you might not be able to log in properly. 
+* Use the Open OnDemand **Files** app to occasionally check your usage and delete old, massive datasets or model checkpoints you no longer need.
+
+## 3. Downloading Your Results (Plots & Models)
+Once your job finishes, you will likely want to download your generated graphs, images, or trained model weights back to your personal laptop for your lab report. 
+* The easiest way to do this is through the **Open OnDemand File Explorer**. Navigate to your course folder, check the box next to the file you want, and click the **Download** button at the top of the screen.
+* It is usually easiest to save all the relevant data for plots, tables, and models to a file so you can create and tweak your plots afterwards.
+
+## 4. "Module Not Found" in Jupyter?
+If you open a Jupyter Notebook and get a `ModuleNotFoundError` when trying to import `torch` or `astropy`, **check your kernel!** Look at the top right corner of your notebook. If it says "Python 3", click it and change it to **Python (AY128)** so it connects to the `uv` environment we built.
+
+# Getting Help
+
+It is completely normal to run into bugs or confusing errors when learning to use an HPC cluster for the first time. If you get stuck, here is the escalation path to get you unblocked:
+
+## 1. The Course Staff (Your First Stop)
+If your Python code is crashing, your job script won't submit, or you don't understand an error message in your `*.out` or `*.err` file, please reach out to us!
+* **Ed Discussion:** Post your question on Ed. Be sure to include your Job ID, the exact error message, and a screenshot if helpful.
+* **Office Hours:** Come to GSI or Instructor office hours. We can pull up your code and debug it with you live.
+
+## 2. BRC User Support (System Issues)
+If you believe there is a fundamental issue with the Savio system itself (e.g., Open OnDemand is completely down, you cannot log in despite a correct OTP, or a physical node has crashed), you can contact the Berkeley Research Computing (BRC) support team.
+* **Email:** `brc-hpc-help@berkeley.edu`
+* **BRC Office Hours:** BRC holds regular virtual office hours. Check the [Berkeley research IT Consulting page](https://research-it.berkeley.edu/consulting) for the current schedule and Zoom links. 
+
+{: .important }
+BRC support is fantastic for system outagesoffice hours for that!

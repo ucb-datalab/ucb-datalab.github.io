@@ -297,5 +297,4 @@ exclude:
   - calendar_dynamic.md
   - announcements.md
   - docs/
-  - resources/savio.md
   - _announcements/week-0.md
