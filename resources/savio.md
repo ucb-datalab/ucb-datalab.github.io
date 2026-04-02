@@ -240,5 +240,5 @@ If you believe there is a fundamental issue with the Savio system itself (e.g., 
 * **Email:** `brc-hpc-help@berkeley.edu`
 * **BRC Office Hours:** BRC holds regular virtual office hours. Check the [Berkeley research IT Consulting page](https://research-it.berkeley.edu/consulting) for the current schedule and Zoom links. 
 
-{: .important }
-BRC support is fantastic for system outagesoffice hours for that!
+<!-- {: .important }
+BRC support is fantastic for system outagesoffice hours for that! -->
